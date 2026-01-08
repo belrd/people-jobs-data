@@ -145,30 +145,6 @@
       "category": "talent_acquisition"
     },
     {
-      "id": "gh_tripadvisor_7440574",
-      "title": "B2B Restaurant Trainer (Maternity Leave)",
-      "company": "Tripadvisor",
-      "location": "Barcelona",
-      "url": "https://job-boards.greenhouse.io/tripadvisor/jobs/7440574",
-      "posted_date": "2025-12-09",
-      "source": "greenhouse",
-      "sector": "traveltech",
-      "company_type": "",
-      "category": "learning_development"
-    },
-    {
-      "id": "gh_elastic_7386148",
-      "title": "Sales Enablement Specialist (Trainer)",
-      "company": "Elastic",
-      "location": "Barcelona, Spain",
-      "url": "https://jobs.elastic.co/jobs?gh_jid=7386148&gh_jid=7386148",
-      "posted_date": "2025-12-05",
-      "source": "greenhouse",
-      "sector": "tech",
-      "company_type": "",
-      "category": "learning_development"
-    },
-    {
       "id": "gh_tripadvisor_7440486",
       "title": "Talent Acquisition Specialist",
       "company": "Tripadvisor",
@@ -278,11 +254,11 @@
     }
   ],
   "stats": {
-    "total_jobs": 23,
+    "total_jobs": 21,
     "companies_scraped": 213,
-    "companies_with_jobs": 9,
+    "companies_with_jobs": 8,
     "by_source": {
-      "greenhouse": 21,
+      "greenhouse": 19,
       "ashby": 2
     },
     "by_category": {
@@ -290,7 +266,6 @@
       "other": 4,
       "hrbp": 9,
       "people_analytics": 2,
-      "learning_development": 2,
       "leadership": 1,
       "compensation_benefits": 1
     },
@@ -299,11 +274,11 @@
       "delivery": 4,
       "hr_tech": 5,
       "marketing": 1,
-      "traveltech": 3,
-      "tech": 5,
+      "traveltech": 2,
       "gaming": 2,
+      "tech": 4,
       "insurtech": 2
     }
   },
-  "last_updated": "2026-01-08T18:03:33.865243"
+  "last_updated": "2026-01-08T18:08:57.542550"
 }
