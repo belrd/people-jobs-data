@@ -145,6 +145,18 @@
       "category": "other"
     },
     {
+      "id": "gh_glovo_7839431002",
+      "title": "Payroll Analyst Spain (They/She/He)",
+      "company": "Glovo",
+      "location": "Barcelona, Spain (Hybrid)",
+      "url": "https://jobs.glovoapp.com/find-your-ride/job/:slug/7839431002/?gh_jid=7839431002",
+      "posted_date": "2025-12-16",
+      "source": "greenhouse",
+      "sector": "delivery",
+      "company_type": "unicorn",
+      "category": "people_ops"
+    },
+    {
       "id": "gh_glovo_8318669002",
       "title": "Talent Acquisition Manager (They/She/He)",
       "company": "Glovo",
@@ -241,6 +253,30 @@
       "category": "compensation_benefits"
     },
     {
+      "id": "lv_qonto_d135cafe-7e1f-4f26-bf93-395e791697cc",
+      "title": "Sales Enablement Specialist",
+      "company": "Qonto",
+      "location": "Barcelona",
+      "url": "https://jobs.lever.co/qonto/d135cafe-7e1f-4f26-bf93-395e791697cc",
+      "posted_date": "",
+      "source": "lever",
+      "sector": "fintech",
+      "company_type": "scaleup",
+      "category": "learning_development"
+    },
+    {
+      "id": "lv_lodgify_52769b8b-9ccc-4f79-afc1-04bbe064c334",
+      "title": "Talent Pool",
+      "company": "Lodgify",
+      "location": "Barcelona - Cataluña",
+      "url": "https://jobs.lever.co/lodgify/52769b8b-9ccc-4f79-afc1-04bbe064c334",
+      "posted_date": "",
+      "source": "lever",
+      "sector": "proptech",
+      "company_type": "scaleup",
+      "category": "other"
+    },
+    {
       "id": "ab_alan_1c575437-86b0-44ac-aca4-dede4b3412e8",
       "title": "People data & systems specialist",
       "company": "Alan",
@@ -314,32 +350,36 @@
     }
   ],
   "stats": {
-    "total_jobs": 26,
+    "total_jobs": 29,
     "companies_scraped": 213,
-    "companies_with_jobs": 10,
+    "companies_with_jobs": 12,
     "by_source": {
-      "greenhouse": 20,
+      "greenhouse": 21,
+      "lever": 2,
       "ashby": 6
     },
     "by_category": {
-      "other": 8,
+      "other": 9,
       "talent_acquisition": 4,
       "hrbp": 9,
       "people_analytics": 2,
+      "people_ops": 1,
       "leadership": 1,
       "compensation_benefits": 1,
-      "learning_development": 1
+      "learning_development": 2
     },
     "by_sector": {
       "tech": 5,
       "events": 1,
-      "delivery": 4,
+      "delivery": 5,
       "hr_tech": 9,
       "marketing": 1,
       "traveltech": 2,
       "gaming": 2,
+      "fintech": 1,
+      "proptech": 1,
       "insurtech": 2
     }
   },
-  "last_updated": "2026-01-08T18:15:56.580232"
+  "last_updated": "2026-01-08T18:28:21.391441"
 }
