@@ -277,18 +277,6 @@
       "category": "other"
     },
     {
-      "id": "lv_qonto_d135cafe-7e1f-4f26-bf93-395e791697cc",
-      "title": "Sales Enablement Specialist",
-      "company": "Qonto",
-      "location": "Barcelona",
-      "url": "https://jobs.lever.co/qonto/d135cafe-7e1f-4f26-bf93-395e791697cc",
-      "posted_date": "",
-      "source": "lever",
-      "sector": "fintech",
-      "company_type": "scaleup",
-      "category": "learning_development"
-    },
-    {
       "id": "lv_lodgify_52769b8b-9ccc-4f79-afc1-04bbe064c334",
       "title": "Talent Pool",
       "company": "Lodgify",
@@ -299,6 +287,18 @@
       "sector": "proptech",
       "company_type": "scaleup",
       "category": "other"
+    },
+    {
+      "id": "lv_qonto_d135cafe-7e1f-4f26-bf93-395e791697cc",
+      "title": "Sales Enablement Specialist",
+      "company": "Qonto",
+      "location": "Barcelona",
+      "url": "https://jobs.lever.co/qonto/d135cafe-7e1f-4f26-bf93-395e791697cc",
+      "posted_date": "",
+      "source": "lever",
+      "sector": "fintech",
+      "company_type": "scaleup",
+      "category": "learning_development"
     },
     {
       "id": "ab_deel_a660e291-30a8-4c6f-84bb-178a649adaed",
@@ -393,5 +393,5 @@
       "proptech": 1
     }
   },
-  "last_updated": "2026-01-08T23:34:27.936880"
+  "last_updated": "2026-01-08T23:38:48.267856"
 }
