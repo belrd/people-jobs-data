@@ -13,6 +13,54 @@
       "category": "talent_acquisition"
     },
     {
+      "id": "gh_feverup_4720741101",
+      "title": "Staff Writer (German speaker)",
+      "company": "Fever",
+      "location": "Barcelona",
+      "url": "https://job-boards.eu.greenhouse.io/feverup/jobs/4720741101",
+      "posted_date": "2026-01-08",
+      "source": "greenhouse",
+      "sector": "events",
+      "company_type": "scaleup",
+      "category": "other"
+    },
+    {
+      "id": "gh_feverup_4740184101",
+      "title": "Tax Specialist APAC",
+      "company": "Fever",
+      "location": "Barcelona",
+      "url": "https://job-boards.eu.greenhouse.io/feverup/jobs/4740184101",
+      "posted_date": "2026-01-08",
+      "source": "greenhouse",
+      "sector": "events",
+      "company_type": "scaleup",
+      "category": "other"
+    },
+    {
+      "id": "gh_n26_7182659",
+      "title": "Steering & Planning Manager - Assistance",
+      "company": "N26",
+      "location": "Berlin or Barcelona",
+      "url": "https://n26.com/en-eu/careers/positions/7182659?gh_jid=7182659",
+      "posted_date": "2026-01-07",
+      "source": "greenhouse",
+      "sector": "fintech",
+      "company_type": "",
+      "category": "other"
+    },
+    {
+      "id": "gh_typeform_7449058",
+      "title": "Associate Digital Analytics Specialist",
+      "company": "Typeform",
+      "location": "Spain (Remote) ",
+      "url": "https://job-boards.greenhouse.io/typeform/jobs/7449058",
+      "posted_date": "2026-01-07",
+      "source": "greenhouse",
+      "sector": "saas",
+      "company_type": "unicorn",
+      "category": "other"
+    },
+    {
       "id": "gh_glovo_8207091002",
       "title": "Global Senior Labour Relations Manager (They/She/He)",
       "company": "Glovo",
@@ -37,6 +85,18 @@
       "category": "hrbp"
     },
     {
+      "id": "gh_remotecom_7567451003",
+      "title": "Senior Manager, Payroll Onboarding Consultants",
+      "company": "Remote",
+      "location": "Remote-EMEA",
+      "url": "https://job-boards.greenhouse.io/remotecom/jobs/7567451003",
+      "posted_date": "2026-01-07",
+      "source": "greenhouse",
+      "sector": "hr_tech",
+      "company_type": "scaleup",
+      "category": "people_ops"
+    },
+    {
       "id": "gh_remotecom_6690881003",
       "title": "Senior Specialist, Employee Relations - EMEA",
       "company": "Remote",
@@ -47,6 +107,30 @@
       "sector": "hr_tech",
       "company_type": "scaleup",
       "category": "hrbp"
+    },
+    {
+      "id": "gh_typeform_7449058",
+      "title": "Associate Digital Analytics Specialist",
+      "company": "Typeform (Marketing)",
+      "location": "Spain (Remote) ",
+      "url": "https://job-boards.greenhouse.io/typeform/jobs/7449058",
+      "posted_date": "2026-01-07",
+      "source": "greenhouse",
+      "sector": "saas",
+      "company_type": "scaleup",
+      "category": "other"
+    },
+    {
+      "id": "gh_n26_7511674",
+      "title": "Senior SRE - Database Operations",
+      "company": "N26",
+      "location": "Barcelona",
+      "url": "https://n26.com/en-eu/careers/positions/7511674?gh_jid=7511674",
+      "posted_date": "2026-01-05",
+      "source": "greenhouse",
+      "sector": "fintech",
+      "company_type": "",
+      "category": "other"
     },
     {
       "id": "gh_remotecom_7564284003",
@@ -97,6 +181,102 @@
       "category": "hrbp"
     },
     {
+      "id": "gh_sumup_8097371002",
+      "title": "Representante de Ventas",
+      "company": "SumUp",
+      "location": "Barcelona, Barcelona, Spain",
+      "url": "https://sumup.com/careers/positions/8097371002?gh_jid=8097371002",
+      "posted_date": "2025-12-29",
+      "source": "greenhouse",
+      "sector": "fintech",
+      "company_type": "",
+      "category": "other"
+    },
+    {
+      "id": "gh_sumup_8181794002",
+      "title": "Consultor de Ventas",
+      "company": "SumUp",
+      "location": "Barcelona, Barcelona, Spain",
+      "url": "https://sumup.com/careers/positions/8181794002?gh_jid=8181794002",
+      "posted_date": "2025-12-26",
+      "source": "greenhouse",
+      "sector": "fintech",
+      "company_type": "",
+      "category": "other"
+    },
+    {
+      "id": "gh_glovo_7877904002",
+      "title": "Data Internship Program (They/She/He)",
+      "company": "Glovo",
+      "location": "Barcelona, Spain",
+      "url": "https://jobs.glovoapp.com/find-your-ride/job/:slug/7877904002/?gh_jid=7877904002",
+      "posted_date": "2025-12-23",
+      "source": "greenhouse",
+      "sector": "delivery",
+      "company_type": "unicorn",
+      "category": "other"
+    },
+    {
+      "id": "gh_glovo_8200778002",
+      "title": "Data Privacy Lawyer (They/She/He)",
+      "company": "Glovo",
+      "location": "Barcelona, Spain",
+      "url": "https://jobs.glovoapp.com/find-your-ride/job/:slug/8200778002/?gh_jid=8200778002",
+      "posted_date": "2025-12-23",
+      "source": "greenhouse",
+      "sector": "delivery",
+      "company_type": "unicorn",
+      "category": "other"
+    },
+    {
+      "id": "gh_glovo_8351245002",
+      "title": "Tax Compliance & Reporting Manager (They/She/He) - HQ",
+      "company": "Glovo",
+      "location": "Barcelona, Spain (hybrid)",
+      "url": "https://jobs.glovoapp.com/find-your-ride/job/:slug/8351245002/?gh_jid=8351245002",
+      "posted_date": "2025-12-23",
+      "source": "greenhouse",
+      "sector": "delivery",
+      "company_type": "unicorn",
+      "category": "other"
+    },
+    {
+      "id": "gh_remotecom_7570854003",
+      "title": "Solutions Consultant, Global Payroll - EMEA",
+      "company": "Remote",
+      "location": "Remote-Western Europe ",
+      "url": "https://job-boards.greenhouse.io/remotecom/jobs/7570854003",
+      "posted_date": "2025-12-23",
+      "source": "greenhouse",
+      "sector": "hr_tech",
+      "company_type": "scaleup",
+      "category": "people_ops"
+    },
+    {
+      "id": "gh_glovo_8340036002",
+      "title": "Commercial Retail Long-Tail Internship (They/She/He)",
+      "company": "Glovo",
+      "location": "Barcelona, Spain",
+      "url": "https://jobs.glovoapp.com/find-your-ride/job/:slug/8340036002/?gh_jid=8340036002",
+      "posted_date": "2025-12-22",
+      "source": "greenhouse",
+      "sector": "delivery",
+      "company_type": "unicorn",
+      "category": "other"
+    },
+    {
+      "id": "gh_scopely_5017441008",
+      "title": "Technical Producer - Star Trek Fleet Command",
+      "company": "Scopely",
+      "location": "ES - Barcelona, Spain; IE - Dublin, Ireland",
+      "url": "https://job-boards.greenhouse.io/scopely/jobs/5017441008",
+      "posted_date": "2025-12-19",
+      "source": "greenhouse",
+      "sector": "gaming",
+      "company_type": "",
+      "category": "other"
+    },
+    {
       "id": "gh_tripadvisor_7486656",
       "title": "HR Generalist Iberia (Temp) ",
       "company": "Tripadvisor",
@@ -119,6 +299,78 @@
       "sector": "hr_tech",
       "company_type": "scaleup",
       "category": "talent_acquisition"
+    },
+    {
+      "id": "gh_glovo_8105951002",
+      "title": "Data Manager (They/She/He)",
+      "company": "Glovo",
+      "location": "Barcelona, Spain (Hybrid)",
+      "url": "https://jobs.glovoapp.com/find-your-ride/job/:slug/8105951002/?gh_jid=8105951002",
+      "posted_date": "2025-12-18",
+      "source": "greenhouse",
+      "sector": "delivery",
+      "company_type": "unicorn",
+      "category": "other"
+    },
+    {
+      "id": "gh_glovo_8217259002",
+      "title": "Legal Assistant - Labour Team (They/She/He)",
+      "company": "Glovo",
+      "location": "Barcelona, Spain",
+      "url": "https://jobs.glovoapp.com/find-your-ride/job/:slug/8217259002/?gh_jid=8217259002",
+      "posted_date": "2025-12-17",
+      "source": "greenhouse",
+      "sector": "delivery",
+      "company_type": "unicorn",
+      "category": "other"
+    },
+    {
+      "id": "gh_glovo_8285065002",
+      "title": "Catalog Operations Intern Q Commerce (They/She/He)",
+      "company": "Glovo",
+      "location": "Barcelona, Spain",
+      "url": "https://jobs.glovoapp.com/find-your-ride/job/:slug/8285065002/?gh_jid=8285065002",
+      "posted_date": "2025-12-16",
+      "source": "greenhouse",
+      "sector": "delivery",
+      "company_type": "unicorn",
+      "category": "other"
+    },
+    {
+      "id": "gh_glovo_8222381002",
+      "title": "Data Operations Intern (They/She/He)",
+      "company": "Glovo",
+      "location": "Barcelona, Spain ",
+      "url": "https://jobs.glovoapp.com/find-your-ride/job/:slug/8222381002/?gh_jid=8222381002",
+      "posted_date": "2025-12-16",
+      "source": "greenhouse",
+      "sector": "delivery",
+      "company_type": "unicorn",
+      "category": "other"
+    },
+    {
+      "id": "gh_glovo_8301120002",
+      "title": "Data & Process Automation Intern (They/She/He)",
+      "company": "Glovo",
+      "location": "Barcelona, Spain",
+      "url": "https://jobs.glovoapp.com/find-your-ride/job/:slug/8301120002/?gh_jid=8301120002",
+      "posted_date": "2025-12-16",
+      "source": "greenhouse",
+      "sector": "delivery",
+      "company_type": "unicorn",
+      "category": "other"
+    },
+    {
+      "id": "gh_glovo_8209085002",
+      "title": "International Tax Lead (They/She/He) - HQ",
+      "company": "Glovo",
+      "location": "Barcelona, Spain (hybrid)",
+      "url": "https://jobs.glovoapp.com/find-your-ride/job/:slug/8209085002/?gh_jid=8209085002",
+      "posted_date": "2025-12-16",
+      "source": "greenhouse",
+      "sector": "delivery",
+      "company_type": "unicorn",
+      "category": "other"
     },
     {
       "id": "gh_glovo_8215048002",
@@ -157,6 +409,66 @@
       "category": "talent_acquisition"
     },
     {
+      "id": "gh_canonical_5906505",
+      "title": "Représentant du Développement des Ventes ",
+      "company": "Canonical",
+      "location": "Home based - EMEA",
+      "url": "https://job-boards.greenhouse.io/canonical/jobs/5906505",
+      "posted_date": "2025-12-12",
+      "source": "greenhouse",
+      "sector": "tech",
+      "company_type": "multinational",
+      "category": "other"
+    },
+    {
+      "id": "gh_canonical_5906490",
+      "title": "Representante de Desarrollo de Ventas",
+      "company": "Canonical",
+      "location": "Home based - EMEA",
+      "url": "https://job-boards.greenhouse.io/canonical/jobs/5906490",
+      "posted_date": "2025-12-12",
+      "source": "greenhouse",
+      "sector": "tech",
+      "company_type": "multinational",
+      "category": "other"
+    },
+    {
+      "id": "gh_remotecom_7548213003",
+      "title": "Senior Workday Implementation Specialist",
+      "company": "Remote",
+      "location": "Remote-EMEA",
+      "url": "https://job-boards.greenhouse.io/remotecom/jobs/7548213003",
+      "posted_date": "2025-12-11",
+      "source": "greenhouse",
+      "sector": "hr_tech",
+      "company_type": "scaleup",
+      "category": "people_ops"
+    },
+    {
+      "id": "gh_remotecom_7546893003",
+      "title": "Tax Manager (Technology)",
+      "company": "Remote",
+      "location": "Remote-Western Europe",
+      "url": "https://job-boards.greenhouse.io/remotecom/jobs/7546893003",
+      "posted_date": "2025-12-09",
+      "source": "greenhouse",
+      "sector": "hr_tech",
+      "company_type": "scaleup",
+      "category": "other"
+    },
+    {
+      "id": "gh_remotecom_7546943003",
+      "title": "Tax Manager (Direct Tax) ",
+      "company": "Remote",
+      "location": "Remote-Western Europe",
+      "url": "https://job-boards.greenhouse.io/remotecom/jobs/7546943003",
+      "posted_date": "2025-12-08",
+      "source": "greenhouse",
+      "sector": "hr_tech",
+      "company_type": "scaleup",
+      "category": "other"
+    },
+    {
       "id": "gh_tripadvisor_7440486",
       "title": "Talent Acquisition Specialist",
       "company": "Tripadvisor",
@@ -178,6 +490,30 @@
       "source": "greenhouse",
       "sector": "gaming",
       "company_type": "",
+      "category": "other"
+    },
+    {
+      "id": "gh_canonical_3227084",
+      "title": "Executive Assistant / Corporate Administrator",
+      "company": "Canonical",
+      "location": "Home based - EMEA",
+      "url": "https://job-boards.greenhouse.io/canonical/jobs/3227084",
+      "posted_date": "2025-12-01",
+      "source": "greenhouse",
+      "sector": "tech",
+      "company_type": "multinational",
+      "category": "other"
+    },
+    {
+      "id": "gh_canonical_6464146",
+      "title": "Graduate Talent Scientist",
+      "company": "Canonical",
+      "location": "Home based - EMEA",
+      "url": "https://job-boards.greenhouse.io/canonical/jobs/6464146",
+      "posted_date": "2025-12-01",
+      "source": "greenhouse",
+      "sector": "tech",
+      "company_type": "multinational",
       "category": "other"
     },
     {
@@ -229,6 +565,42 @@
       "category": "hrbp"
     },
     {
+      "id": "gh_canonical_5881447",
+      "title": "Software Architect - Containers / Virtualisation",
+      "company": "Canonical",
+      "location": "Home Based - Americas; Home based - EMEA",
+      "url": "https://job-boards.greenhouse.io/canonical/jobs/5881447",
+      "posted_date": "2025-12-01",
+      "source": "greenhouse",
+      "sector": "tech",
+      "company_type": "multinational",
+      "category": "other"
+    },
+    {
+      "id": "gh_canonical_3137607",
+      "title": "Talent Scientist",
+      "company": "Canonical",
+      "location": "Home based - EMEA",
+      "url": "https://job-boards.greenhouse.io/canonical/jobs/3137607",
+      "posted_date": "2025-12-01",
+      "source": "greenhouse",
+      "sector": "tech",
+      "company_type": "multinational",
+      "category": "other"
+    },
+    {
+      "id": "gh_canonical_7214510",
+      "title": "Talent Scientist - Graduate Lead",
+      "company": "Canonical",
+      "location": "Home based - EMEA",
+      "url": "https://job-boards.greenhouse.io/canonical/jobs/7214510",
+      "posted_date": "2025-12-01",
+      "source": "greenhouse",
+      "sector": "tech",
+      "company_type": "multinational",
+      "category": "other"
+    },
+    {
       "id": "gh_scopely_4981004008",
       "title": "Compensation Analyst",
       "company": "Scopely",
@@ -251,6 +623,42 @@
       "sector": "fintech",
       "company_type": "",
       "category": "talent_acquisition"
+    },
+    {
+      "id": "ab_backmarket_d405e6c0-6dcc-40b3-a605-efc46eb0e4af",
+      "title": "Junior Internal Care & eReputation Manager (IT/ES) ",
+      "company": "Back Market",
+      "location": "Barcelona",
+      "url": "https://jobs.ashbyhq.com/backmarket/d405e6c0-6dcc-40b3-a605-efc46eb0e4af",
+      "posted_date": "",
+      "source": "ashby",
+      "sector": "ecommerce",
+      "company_type": "scaleup",
+      "category": "other"
+    },
+    {
+      "id": "lv_qonto_d135cafe-7e1f-4f26-bf93-395e791697cc",
+      "title": "Sales Enablement Specialist",
+      "company": "Qonto",
+      "location": "Barcelona",
+      "url": "https://jobs.lever.co/qonto/d135cafe-7e1f-4f26-bf93-395e791697cc",
+      "posted_date": "",
+      "source": "lever",
+      "sector": "fintech",
+      "company_type": "scaleup",
+      "category": "learning_development"
+    },
+    {
+      "id": "lv_lodgify_52769b8b-9ccc-4f79-afc1-04bbe064c334",
+      "title": "Talent Pool",
+      "company": "Lodgify",
+      "location": "Barcelona - Cataluña",
+      "url": "https://jobs.lever.co/lodgify/52769b8b-9ccc-4f79-afc1-04bbe064c334",
+      "posted_date": "",
+      "source": "lever",
+      "sector": "proptech",
+      "company_type": "scaleup",
+      "category": "other"
     },
     {
       "id": "ab_alan_1c575437-86b0-44ac-aca4-dede4b3412e8",
@@ -277,28 +685,28 @@
       "category": "other"
     },
     {
-      "id": "lv_lodgify_52769b8b-9ccc-4f79-afc1-04bbe064c334",
-      "title": "Talent Pool",
-      "company": "Lodgify",
-      "location": "Barcelona - Cataluña",
-      "url": "https://jobs.lever.co/lodgify/52769b8b-9ccc-4f79-afc1-04bbe064c334",
+      "id": "ab_ashby_0613db68-831a-411c-8469-c37d783a62ad",
+      "title": "Content Lead, Talent Trends - EMEA",
+      "company": "Ashby",
+      "location": "Remote - Europe",
+      "url": "https://jobs.ashbyhq.com/ashby/0613db68-831a-411c-8469-c37d783a62ad",
       "posted_date": "",
-      "source": "lever",
-      "sector": "proptech",
-      "company_type": "scaleup",
+      "source": "ashby",
+      "sector": "hr_tech",
+      "company_type": "multinational",
       "category": "other"
     },
     {
-      "id": "lv_qonto_d135cafe-7e1f-4f26-bf93-395e791697cc",
-      "title": "Sales Enablement Specialist",
-      "company": "Qonto",
-      "location": "Barcelona",
-      "url": "https://jobs.lever.co/qonto/d135cafe-7e1f-4f26-bf93-395e791697cc",
+      "id": "ab_ashby_3d0ffda4-696a-4c4e-bee5-d7f4f441c3c3",
+      "title": "Strategic Implementation Specialist - EMEA",
+      "company": "Ashby",
+      "location": "Remote - Europe",
+      "url": "https://jobs.ashbyhq.com/ashby/3d0ffda4-696a-4c4e-bee5-d7f4f441c3c3",
       "posted_date": "",
-      "source": "lever",
-      "sector": "fintech",
-      "company_type": "scaleup",
-      "category": "learning_development"
+      "source": "ashby",
+      "sector": "hr_tech",
+      "company_type": "multinational",
+      "category": "other"
     },
     {
       "id": "ab_deel_a660e291-30a8-4c6f-84bb-178a649adaed",
@@ -362,36 +770,38 @@
     }
   ],
   "stats": {
-    "total_jobs": 30,
+    "total_jobs": 64,
     "companies_scraped": 225,
-    "companies_with_jobs": 12,
+    "companies_with_jobs": 18,
     "by_source": {
-      "greenhouse": 20,
-      "ashby": 8,
+      "greenhouse": 51,
+      "ashby": 11,
       "lever": 2
     },
     "by_category": {
       "talent_acquisition": 5,
-      "other": 8,
+      "other": 39,
       "hrbp": 9,
+      "people_ops": 4,
       "people_analytics": 2,
-      "people_ops": 1,
       "leadership": 1,
       "compensation_benefits": 1,
       "learning_development": 3
     },
     "by_sector": {
-      "events": 1,
-      "delivery": 5,
-      "hr_tech": 10,
+      "events": 3,
+      "fintech": 6,
+      "saas": 2,
+      "delivery": 15,
+      "hr_tech": 17,
       "marketing": 1,
+      "gaming": 3,
       "traveltech": 2,
-      "gaming": 2,
-      "tech": 4,
-      "fintech": 2,
-      "insurtech": 2,
-      "proptech": 1
+      "tech": 11,
+      "ecommerce": 1,
+      "proptech": 1,
+      "insurtech": 2
     }
   },
-  "last_updated": "2026-01-08T23:38:48.267856"
+  "last_updated": "2026-01-08T23:42:22.294401"
 }
