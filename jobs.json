@@ -1,18 +1,6 @@
 {
   "jobs": [
     {
-      "id": "gh_datadog_7400259",
-      "title": "People Business Partner - Madrid",
-      "company": "Datadog",
-      "location": "Madrid, Spain",
-      "url": "https://careers.datadoghq.com/detail/7400259/?gh_jid=7400259",
-      "posted_date": "2026-01-08",
-      "source": "greenhouse",
-      "sector": "tech",
-      "company_type": "",
-      "category": "other"
-    },
-    {
       "id": "gh_feverup_4238197101",
       "title": "Mid IT Talent Acquisition Specialist",
       "company": "Fever",
@@ -350,17 +338,17 @@
     }
   ],
   "stats": {
-    "total_jobs": 29,
+    "total_jobs": 28,
     "companies_scraped": 213,
-    "companies_with_jobs": 12,
+    "companies_with_jobs": 11,
     "by_source": {
-      "greenhouse": 21,
+      "greenhouse": 20,
       "lever": 2,
       "ashby": 6
     },
     "by_category": {
-      "other": 9,
       "talent_acquisition": 4,
+      "other": 8,
       "hrbp": 9,
       "people_analytics": 2,
       "people_ops": 1,
@@ -369,17 +357,17 @@
       "learning_development": 2
     },
     "by_sector": {
-      "tech": 5,
       "events": 1,
       "delivery": 5,
       "hr_tech": 9,
       "marketing": 1,
       "traveltech": 2,
       "gaming": 2,
+      "tech": 4,
       "fintech": 1,
       "proptech": 1,
       "insurtech": 2
     }
   },
-  "last_updated": "2026-01-08T18:28:21.391441"
+  "last_updated": "2026-01-08T18:35:00.759158"
 }
