@@ -1,40 +1,16 @@
 {
   "jobs": [
     {
-      "id": "gh_datadog_7476652",
-      "title": "Coordinator, Business Recruiting - EMEA (12 month Fixed Term Contract)",
-      "company": "Datadog",
-      "location": "Dublin, Ireland",
-      "url": "https://careers.datadoghq.com/detail/7476652/?gh_jid=7476652",
+      "id": "gh_stripe_7485285",
+      "title": "Partner Development Manager, Payments Partnerships & Agentic Commerce",
+      "company": "Stripe",
+      "location": "US-Remote; US-Chicago; US-Atlanta",
+      "url": "https://stripe.com/jobs/search?gh_jid=7485285",
       "posted_date": "2026-01-08",
       "source": "greenhouse",
-      "sector": "tech",
-      "company_type": "",
-      "category": "talent_acquisition"
-    },
-    {
-      "id": "gh_datadog_7413847",
-      "title": "Corporate Development Lead - EMEA",
-      "company": "Datadog",
-      "location": "Paris, France",
-      "url": "https://careers.datadoghq.com/detail/7413847/?gh_jid=7413847",
-      "posted_date": "2026-01-08",
-      "source": "greenhouse",
-      "sector": "tech",
+      "sector": "fintech",
       "company_type": "",
       "category": "learning_development"
-    },
-    {
-      "id": "gh_datadog_7400259",
-      "title": "People Business Partner - Madrid",
-      "company": "Datadog",
-      "location": "Madrid, Spain",
-      "url": "https://careers.datadoghq.com/detail/7400259/?gh_jid=7400259",
-      "posted_date": "2026-01-08",
-      "source": "greenhouse",
-      "sector": "tech",
-      "company_type": "",
-      "category": "other"
     },
     {
       "id": "gh_twilio_7486351",
@@ -83,18 +59,6 @@
       "sector": "tech",
       "company_type": "",
       "category": "people_ops"
-    },
-    {
-      "id": "gh_stripe_7485285",
-      "title": "Partner Development Manager, Payments Partnerships & Agentic Commerce",
-      "company": "Stripe",
-      "location": "US-Remote; US-Chicago; US-Atlanta",
-      "url": "https://stripe.com/jobs/search?gh_jid=7485285",
-      "posted_date": "2026-01-08",
-      "source": "greenhouse",
-      "sector": "fintech",
-      "company_type": "",
-      "category": "learning_development"
     },
     {
       "id": "gh_scopely_4961473008",
@@ -167,6 +131,42 @@
       "sector": "events",
       "company_type": "scaleup",
       "category": "learning_development"
+    },
+    {
+      "id": "gh_datadog_7476652",
+      "title": "Coordinator, Business Recruiting - EMEA (12 month Fixed Term Contract)",
+      "company": "Datadog",
+      "location": "Dublin, Ireland",
+      "url": "https://careers.datadoghq.com/detail/7476652/?gh_jid=7476652",
+      "posted_date": "2026-01-08",
+      "source": "greenhouse",
+      "sector": "tech",
+      "company_type": "",
+      "category": "talent_acquisition"
+    },
+    {
+      "id": "gh_datadog_7413847",
+      "title": "Corporate Development Lead - EMEA",
+      "company": "Datadog",
+      "location": "Paris, France",
+      "url": "https://careers.datadoghq.com/detail/7413847/?gh_jid=7413847",
+      "posted_date": "2026-01-08",
+      "source": "greenhouse",
+      "sector": "tech",
+      "company_type": "",
+      "category": "learning_development"
+    },
+    {
+      "id": "gh_datadog_7400259",
+      "title": "People Business Partner - Madrid",
+      "company": "Datadog",
+      "location": "Madrid, Spain",
+      "url": "https://careers.datadoghq.com/detail/7400259/?gh_jid=7400259",
+      "posted_date": "2026-01-08",
+      "source": "greenhouse",
+      "sector": "tech",
+      "company_type": "",
+      "category": "other"
     },
     {
       "id": "gh_topsort_5060561008",
@@ -397,6 +397,54 @@
       "category": "learning_development"
     },
     {
+      "id": "gh_gitlab_8347297002",
+      "title": "Business Development Representative - AMER ",
+      "company": "GitLab",
+      "location": "Remote, US",
+      "url": "https://job-boards.greenhouse.io/gitlab/jobs/8347297002",
+      "posted_date": "2026-01-07",
+      "source": "greenhouse",
+      "sector": "tech",
+      "company_type": "multinational",
+      "category": "learning_development"
+    },
+    {
+      "id": "gh_gitlab_8347320002",
+      "title": "Business Development Representative- AMER, PubSec ",
+      "company": "GitLab",
+      "location": "Remote, US",
+      "url": "https://job-boards.greenhouse.io/gitlab/jobs/8347320002",
+      "posted_date": "2026-01-07",
+      "source": "greenhouse",
+      "sector": "tech",
+      "company_type": "multinational",
+      "category": "learning_development"
+    },
+    {
+      "id": "gh_gitlab_8347313002",
+      "title": "Business Development Representative - AMER, Spanish Speaking",
+      "company": "GitLab",
+      "location": "Remote, North America",
+      "url": "https://job-boards.greenhouse.io/gitlab/jobs/8347313002",
+      "posted_date": "2026-01-07",
+      "source": "greenhouse",
+      "sector": "tech",
+      "company_type": "multinational",
+      "category": "learning_development"
+    },
+    {
+      "id": "gh_gitlab_8308694002",
+      "title": "Business Development Representative - EMEA, Dutch Speaking",
+      "company": "GitLab",
+      "location": "Remote, Europe",
+      "url": "https://job-boards.greenhouse.io/gitlab/jobs/8308694002",
+      "posted_date": "2026-01-07",
+      "source": "greenhouse",
+      "sector": "tech",
+      "company_type": "multinational",
+      "category": "learning_development"
+    },
+    {
       "id": "gh_cloudflare_7507084",
       "title": "Customer Education Instructional Designer and Trainer",
       "company": "Cloudflare",
@@ -467,54 +515,6 @@
       "sector": "tech",
       "company_type": "multinational",
       "category": "people_ops"
-    },
-    {
-      "id": "gh_gitlab_8347297002",
-      "title": "Business Development Representative - AMER ",
-      "company": "GitLab",
-      "location": "Remote, US",
-      "url": "https://job-boards.greenhouse.io/gitlab/jobs/8347297002",
-      "posted_date": "2026-01-07",
-      "source": "greenhouse",
-      "sector": "tech",
-      "company_type": "multinational",
-      "category": "learning_development"
-    },
-    {
-      "id": "gh_gitlab_8347320002",
-      "title": "Business Development Representative- AMER, PubSec ",
-      "company": "GitLab",
-      "location": "Remote, US",
-      "url": "https://job-boards.greenhouse.io/gitlab/jobs/8347320002",
-      "posted_date": "2026-01-07",
-      "source": "greenhouse",
-      "sector": "tech",
-      "company_type": "multinational",
-      "category": "learning_development"
-    },
-    {
-      "id": "gh_gitlab_8347313002",
-      "title": "Business Development Representative - AMER, Spanish Speaking",
-      "company": "GitLab",
-      "location": "Remote, North America",
-      "url": "https://job-boards.greenhouse.io/gitlab/jobs/8347313002",
-      "posted_date": "2026-01-07",
-      "source": "greenhouse",
-      "sector": "tech",
-      "company_type": "multinational",
-      "category": "learning_development"
-    },
-    {
-      "id": "gh_gitlab_8308694002",
-      "title": "Business Development Representative - EMEA, Dutch Speaking",
-      "company": "GitLab",
-      "location": "Remote, Europe",
-      "url": "https://job-boards.greenhouse.io/gitlab/jobs/8308694002",
-      "posted_date": "2026-01-07",
-      "source": "greenhouse",
-      "sector": "tech",
-      "company_type": "multinational",
-      "category": "learning_development"
     },
     {
       "id": "gh_sumologic_7505134",
@@ -1969,18 +1969,6 @@
       "category": "learning_development"
     },
     {
-      "id": "gh_cloudflare_7480795",
-      "title": "Director, Sales Enablement",
-      "company": "Cloudflare",
-      "location": "Hybrid",
-      "url": "https://boards.greenhouse.io/cloudflare/jobs/7480795?gh_jid=7480795",
-      "posted_date": "2025-12-18",
-      "source": "greenhouse",
-      "sector": "tech",
-      "company_type": "multinational",
-      "category": "learning_development"
-    },
-    {
       "id": "gh_gitlab_8318778002",
       "title": "Business Development Representative - Singapore, Mandarin Speaking",
       "company": "GitLab",
@@ -2051,6 +2039,18 @@
       "sector": "tech",
       "company_type": "multinational",
       "category": "employee_experience"
+    },
+    {
+      "id": "gh_cloudflare_7480795",
+      "title": "Director, Sales Enablement",
+      "company": "Cloudflare",
+      "location": "Hybrid",
+      "url": "https://boards.greenhouse.io/cloudflare/jobs/7480795?gh_jid=7480795",
+      "posted_date": "2025-12-18",
+      "source": "greenhouse",
+      "sector": "tech",
+      "company_type": "multinational",
+      "category": "learning_development"
     },
     {
       "id": "gh_airtable_7968990002",
@@ -4057,30 +4057,6 @@
       "category": "people_ops"
     },
     {
-      "id": "lv_qonto_be48a406-a580-468a-805f-7e97d6edaaf4",
-      "title": "Customer Care Onboarding - Netherlands 🇳🇱 and Belgium 🇧🇪 Dutch & Flemish Speaker",
-      "company": "Qonto",
-      "location": "Barcelona",
-      "url": "https://jobs.lever.co/qonto/be48a406-a580-468a-805f-7e97d6edaaf4",
-      "posted_date": "",
-      "source": "lever",
-      "sector": "fintech",
-      "company_type": "scaleup",
-      "category": "learning_development"
-    },
-    {
-      "id": "lv_qonto_d135cafe-7e1f-4f26-bf93-395e791697cc",
-      "title": "Sales Enablement Specialist",
-      "company": "Qonto",
-      "location": "Barcelona",
-      "url": "https://jobs.lever.co/qonto/d135cafe-7e1f-4f26-bf93-395e791697cc",
-      "posted_date": "",
-      "source": "lever",
-      "sector": "fintech",
-      "company_type": "scaleup",
-      "category": "learning_development"
-    },
-    {
       "id": "lv_lodgify_52769b8b-9ccc-4f79-afc1-04bbe064c334",
       "title": "Talent Pool",
       "company": "Lodgify",
@@ -4125,6 +4101,30 @@
       "posted_date": "",
       "source": "lever",
       "sector": "proptech",
+      "company_type": "scaleup",
+      "category": "learning_development"
+    },
+    {
+      "id": "lv_qonto_be48a406-a580-468a-805f-7e97d6edaaf4",
+      "title": "Customer Care Onboarding - Netherlands 🇳🇱 and Belgium 🇧🇪 Dutch & Flemish Speaker",
+      "company": "Qonto",
+      "location": "Barcelona",
+      "url": "https://jobs.lever.co/qonto/be48a406-a580-468a-805f-7e97d6edaaf4",
+      "posted_date": "",
+      "source": "lever",
+      "sector": "fintech",
+      "company_type": "scaleup",
+      "category": "learning_development"
+    },
+    {
+      "id": "lv_qonto_d135cafe-7e1f-4f26-bf93-395e791697cc",
+      "title": "Sales Enablement Specialist",
+      "company": "Qonto",
+      "location": "Barcelona",
+      "url": "https://jobs.lever.co/qonto/d135cafe-7e1f-4f26-bf93-395e791697cc",
+      "posted_date": "",
+      "source": "lever",
+      "sector": "fintech",
       "company_type": "scaleup",
       "category": "learning_development"
     },
@@ -4186,18 +4186,6 @@
       "source": "ashby",
       "sector": "hr_tech",
       "company_type": "multinational",
-      "category": "learning_development"
-    },
-    {
-      "id": "lv_coupa_b66b4a30-3eca-4f01-8442-e41ee46272e1",
-      "title": "Account Development Representative - 11002",
-      "company": "Coupa",
-      "location": "Madrid, Spain",
-      "url": "https://jobs.lever.co/coupa/b66b4a30-3eca-4f01-8442-e41ee46272e1",
-      "posted_date": "",
-      "source": "lever",
-      "sector": "fintech",
-      "company_type": "scaleup",
       "category": "learning_development"
     },
     {
@@ -4523,6 +4511,18 @@
       "sector": "hr_tech",
       "company_type": "multinational",
       "category": "other"
+    },
+    {
+      "id": "lv_coupa_b66b4a30-3eca-4f01-8442-e41ee46272e1",
+      "title": "Account Development Representative - 11002",
+      "company": "Coupa",
+      "location": "Madrid, Spain",
+      "url": "https://jobs.lever.co/coupa/b66b4a30-3eca-4f01-8442-e41ee46272e1",
+      "posted_date": "",
+      "source": "lever",
+      "sector": "fintech",
+      "company_type": "scaleup",
+      "category": "learning_development"
     }
   ],
   "stats": {
@@ -4535,17 +4535,17 @@
       "lever": 7
     },
     "by_category": {
-      "talent_acquisition": 56,
       "learning_development": 173,
-      "other": 26,
       "people_ops": 58,
+      "talent_acquisition": 56,
+      "other": 26,
       "compensation_benefits": 20,
       "hrbp": 36,
       "employee_experience": 8
     },
     "by_sector": {
-      "tech": 97,
       "fintech": 38,
+      "tech": 97,
       "gaming": 6,
       "events": 5,
       "adtech": 1,
@@ -4563,5 +4563,5 @@
       "proptech": 4
     }
   },
-  "last_updated": "2026-01-08T17:20:21.075788"
+  "last_updated": "2026-01-08T17:21:45.318516"
 }
