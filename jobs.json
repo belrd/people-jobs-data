@@ -1,0 +1,68 @@
+{
+  "last_updated": "2026-01-08T12:31:11.913106",
+  "total_jobs": 6,
+  "companies_scraped": 38,
+  "companies_with_jobs": 2,
+  "jobs": [
+    {
+      "title": "Global Senior Labour Relations Manager (They/She/He)",
+      "company": "Glovo",
+      "location": "Barcelona, Spain",
+      "url": "https://jobs.glovoapp.com/find-your-ride/job/:slug/8207091002/?gh_jid=8207091002",
+      "department": "",
+      "posted_at": "2026-01-07T05:57:54-05:00",
+      "source": "greenhouse",
+      "category": "Employee Relations"
+    },
+    {
+      "title": "Global Senior Manager - Employee Relations (They/She/He)",
+      "company": "Glovo",
+      "location": "Barcelona, Spain",
+      "url": "https://jobs.glovoapp.com/find-your-ride/job/:slug/8245667002/?gh_jid=8245667002",
+      "department": "",
+      "posted_at": "2026-01-07T05:57:33-05:00",
+      "source": "greenhouse",
+      "category": "Employee Relations"
+    },
+    {
+      "title": "HR Analytics Controller (They/She/He) - HQ",
+      "company": "Glovo",
+      "location": "Barcelona, Spain",
+      "url": "https://jobs.glovoapp.com/find-your-ride/job/:slug/8321048002/?gh_jid=8321048002",
+      "department": "",
+      "posted_at": "2025-12-16T07:26:47-05:00",
+      "source": "greenhouse",
+      "category": "People Analytics"
+    },
+    {
+      "title": "Payroll Analyst Spain (They/She/He)",
+      "company": "Glovo",
+      "location": "Barcelona, Spain (Hybrid)",
+      "url": "https://jobs.glovoapp.com/find-your-ride/job/:slug/7839431002/?gh_jid=7839431002",
+      "department": "",
+      "posted_at": "2025-12-16T07:26:47-05:00",
+      "source": "greenhouse",
+      "category": "Compensation & Benefits"
+    },
+    {
+      "title": "Workday Project Manager (They/She/He)",
+      "company": "Glovo",
+      "location": "Barcelona, Spain (Hybrid)",
+      "url": "https://jobs.glovoapp.com/find-your-ride/job/:slug/8239898002/?gh_jid=8239898002",
+      "department": "",
+      "posted_at": "2025-12-16T07:26:47-05:00",
+      "source": "greenhouse",
+      "category": "Other"
+    },
+    {
+      "title": "HR tech & automation",
+      "company": "Alan",
+      "location": "Anywhere in France, Belgium, Spain",
+      "url": "https://jobs.ashbyhq.com/alan/a86c8704-3ddb-43e5-861d-90f18808887f",
+      "department": "Work Environment",
+      "posted_at": "2025-11-28T14:52:20.896+00:00",
+      "source": "ashby",
+      "category": "Other"
+    }
+  ]
+}
