@@ -625,42 +625,6 @@
       "category": "talent_acquisition"
     },
     {
-      "id": "ab_backmarket_d405e6c0-6dcc-40b3-a605-efc46eb0e4af",
-      "title": "Junior Internal Care & eReputation Manager (IT/ES) ",
-      "company": "Back Market",
-      "location": "Barcelona",
-      "url": "https://jobs.ashbyhq.com/backmarket/d405e6c0-6dcc-40b3-a605-efc46eb0e4af",
-      "posted_date": "",
-      "source": "ashby",
-      "sector": "ecommerce",
-      "company_type": "scaleup",
-      "category": "other"
-    },
-    {
-      "id": "lv_qonto_d135cafe-7e1f-4f26-bf93-395e791697cc",
-      "title": "Sales Enablement Specialist",
-      "company": "Qonto",
-      "location": "Barcelona",
-      "url": "https://jobs.lever.co/qonto/d135cafe-7e1f-4f26-bf93-395e791697cc",
-      "posted_date": "",
-      "source": "lever",
-      "sector": "fintech",
-      "company_type": "scaleup",
-      "category": "learning_development"
-    },
-    {
-      "id": "lv_lodgify_52769b8b-9ccc-4f79-afc1-04bbe064c334",
-      "title": "Talent Pool",
-      "company": "Lodgify",
-      "location": "Barcelona - Cataluña",
-      "url": "https://jobs.lever.co/lodgify/52769b8b-9ccc-4f79-afc1-04bbe064c334",
-      "posted_date": "",
-      "source": "lever",
-      "sector": "proptech",
-      "company_type": "scaleup",
-      "category": "other"
-    },
-    {
       "id": "ab_alan_1c575437-86b0-44ac-aca4-dede4b3412e8",
       "title": "People data & systems specialist",
       "company": "Alan",
@@ -683,6 +647,66 @@
       "sector": "insurtech",
       "company_type": "scaleup",
       "category": "other"
+    },
+    {
+      "id": "ab_backmarket_d405e6c0-6dcc-40b3-a605-efc46eb0e4af",
+      "title": "Junior Internal Care & eReputation Manager (IT/ES) ",
+      "company": "Back Market",
+      "location": "Barcelona",
+      "url": "https://jobs.ashbyhq.com/backmarket/d405e6c0-6dcc-40b3-a605-efc46eb0e4af",
+      "posted_date": "",
+      "source": "ashby",
+      "sector": "ecommerce",
+      "company_type": "scaleup",
+      "category": "other"
+    },
+    {
+      "id": "lv_lodgify_52769b8b-9ccc-4f79-afc1-04bbe064c334",
+      "title": "Talent Pool",
+      "company": "Lodgify",
+      "location": "Barcelona - Cataluña",
+      "url": "https://jobs.lever.co/lodgify/52769b8b-9ccc-4f79-afc1-04bbe064c334",
+      "posted_date": "",
+      "source": "lever",
+      "sector": "proptech",
+      "company_type": "scaleup",
+      "category": "other"
+    },
+    {
+      "id": "lv_qonto_d135cafe-7e1f-4f26-bf93-395e791697cc",
+      "title": "Sales Enablement Specialist",
+      "company": "Qonto",
+      "location": "Barcelona",
+      "url": "https://jobs.lever.co/qonto/d135cafe-7e1f-4f26-bf93-395e791697cc",
+      "posted_date": "",
+      "source": "lever",
+      "sector": "fintech",
+      "company_type": "scaleup",
+      "category": "learning_development"
+    },
+    {
+      "id": "tt_sateliot_-1761208087766966917",
+      "title": "Head of HR Operations & Administration.",
+      "company": "Sateliot",
+      "location": "Barcelona",
+      "url": "https://careers.sateliot.com/jobs/7009020-head-of-hr-operations-administration",
+      "posted_date": "",
+      "source": "teamtailor",
+      "sector": "spacetech",
+      "company_type": "startup",
+      "category": "people_ops"
+    },
+    {
+      "id": "tt_sateliot_-2506864059331704147",
+      "title": "Junior Talent Acquisition Specialist",
+      "company": "Sateliot",
+      "location": "Barcelona",
+      "url": "https://careers.sateliot.com/jobs/7008992-junior-talent-acquisition-specialist",
+      "posted_date": "",
+      "source": "teamtailor",
+      "sector": "spacetech",
+      "company_type": "startup",
+      "category": "talent_acquisition"
     },
     {
       "id": "ab_ashby_0613db68-831a-411c-8469-c37d783a62ad",
@@ -770,19 +794,20 @@
     }
   ],
   "stats": {
-    "total_jobs": 64,
+    "total_jobs": 66,
     "companies_scraped": 225,
-    "companies_with_jobs": 18,
+    "companies_with_jobs": 19,
     "by_source": {
       "greenhouse": 51,
       "ashby": 11,
-      "lever": 2
+      "lever": 2,
+      "teamtailor": 2
     },
     "by_category": {
-      "talent_acquisition": 5,
+      "talent_acquisition": 6,
       "other": 39,
       "hrbp": 9,
-      "people_ops": 4,
+      "people_ops": 5,
       "people_analytics": 2,
       "leadership": 1,
       "compensation_benefits": 1,
@@ -798,10 +823,11 @@
       "gaming": 3,
       "traveltech": 2,
       "tech": 11,
+      "insurtech": 2,
       "ecommerce": 1,
       "proptech": 1,
-      "insurtech": 2
+      "spacetech": 2
     }
   },
-  "last_updated": "2026-01-08T23:47:15.703763"
+  "last_updated": "2026-01-08T23:50:20.089285"
 }
