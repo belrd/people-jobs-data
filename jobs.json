@@ -241,6 +241,18 @@
       "category": "compensation_benefits"
     },
     {
+      "id": "ab_joko_e2129ca3-40d4-4533-b2e0-dee21061e4cb",
+      "title": "Talent Acquisition Manager - Spain Focus",
+      "company": "Joko",
+      "location": "Barcelona",
+      "url": "https://jobs.ashbyhq.com/joko/e2129ca3-40d4-4533-b2e0-dee21061e4cb",
+      "posted_date": "",
+      "source": "ashby",
+      "sector": "fintech",
+      "company_type": "",
+      "category": "talent_acquisition"
+    },
+    {
       "id": "lv_qonto_d135cafe-7e1f-4f26-bf93-395e791697cc",
       "title": "Sales Enablement Specialist",
       "company": "Qonto",
@@ -313,6 +325,18 @@
       "category": "other"
     },
     {
+      "id": "ab_deel_5a219694-7a4e-4fb8-8a51-0a1299cd1666",
+      "title": "Customer Onboarding Manager, Mid-Market | French speaking ",
+      "company": "Deel",
+      "location": "Spain",
+      "url": "https://jobs.ashbyhq.com/deel/5a219694-7a4e-4fb8-8a51-0a1299cd1666",
+      "posted_date": "",
+      "source": "ashby",
+      "sector": "hr_tech",
+      "company_type": "multinational",
+      "category": "learning_development"
+    },
+    {
       "id": "ab_deel_fa0aadb4-fc99-4a4c-915e-81f5012141e0",
       "title": "People Relations Partner (EMEA)",
       "company": "Deel",
@@ -338,36 +362,36 @@
     }
   ],
   "stats": {
-    "total_jobs": 28,
-    "companies_scraped": 213,
-    "companies_with_jobs": 11,
+    "total_jobs": 30,
+    "companies_scraped": 216,
+    "companies_with_jobs": 12,
     "by_source": {
       "greenhouse": 20,
-      "lever": 2,
-      "ashby": 6
+      "ashby": 8,
+      "lever": 2
     },
     "by_category": {
-      "talent_acquisition": 4,
+      "talent_acquisition": 5,
       "other": 8,
       "hrbp": 9,
       "people_analytics": 2,
       "people_ops": 1,
       "leadership": 1,
       "compensation_benefits": 1,
-      "learning_development": 2
+      "learning_development": 3
     },
     "by_sector": {
       "events": 1,
       "delivery": 5,
-      "hr_tech": 9,
+      "hr_tech": 10,
       "marketing": 1,
       "traveltech": 2,
       "gaming": 2,
       "tech": 4,
-      "fintech": 1,
+      "fintech": 2,
       "proptech": 1,
       "insurtech": 2
     }
   },
-  "last_updated": "2026-01-08T18:35:00.759158"
+  "last_updated": "2026-01-08T22:43:06.308583"
 }
