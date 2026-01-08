@@ -49,18 +49,6 @@
       "category": "other"
     },
     {
-      "id": "gh_typeform_7449058",
-      "title": "Associate Digital Analytics Specialist",
-      "company": "Typeform",
-      "location": "Spain (Remote) ",
-      "url": "https://job-boards.greenhouse.io/typeform/jobs/7449058",
-      "posted_date": "2026-01-07",
-      "source": "greenhouse",
-      "sector": "saas",
-      "company_type": "unicorn",
-      "category": "other"
-    },
-    {
       "id": "gh_glovo_8207091002",
       "title": "Global Senior Labour Relations Manager (They/She/He)",
       "company": "Glovo",
@@ -83,6 +71,18 @@
       "sector": "delivery",
       "company_type": "unicorn",
       "category": "hrbp"
+    },
+    {
+      "id": "gh_typeform_7449058",
+      "title": "Associate Digital Analytics Specialist",
+      "company": "Typeform",
+      "location": "Spain (Remote) ",
+      "url": "https://job-boards.greenhouse.io/typeform/jobs/7449058",
+      "posted_date": "2026-01-07",
+      "source": "greenhouse",
+      "sector": "saas",
+      "company_type": "unicorn",
+      "category": "other"
     },
     {
       "id": "gh_remotecom_7567451003",
@@ -791,8 +791,8 @@
     "by_sector": {
       "events": 3,
       "fintech": 6,
-      "saas": 2,
       "delivery": 15,
+      "saas": 2,
       "hr_tech": 17,
       "marketing": 1,
       "gaming": 3,
@@ -803,5 +803,5 @@
       "insurtech": 2
     }
   },
-  "last_updated": "2026-01-08T23:42:22.294401"
+  "last_updated": "2026-01-08T23:47:15.703763"
 }
