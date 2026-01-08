@@ -1,6 +1,18 @@
 {
   "jobs": [
     {
+      "id": "gh_datadog_7400259",
+      "title": "People Business Partner - Madrid",
+      "company": "Datadog",
+      "location": "Madrid, Spain",
+      "url": "https://careers.datadoghq.com/detail/7400259/?gh_jid=7400259",
+      "posted_date": "2026-01-08",
+      "source": "greenhouse",
+      "sector": "tech",
+      "company_type": "",
+      "category": "other"
+    },
+    {
       "id": "gh_feverup_4238197101",
       "title": "Mid IT Talent Acquisition Specialist",
       "company": "Fever",
@@ -251,34 +263,83 @@
       "sector": "insurtech",
       "company_type": "scaleup",
       "category": "other"
+    },
+    {
+      "id": "ab_deel_a660e291-30a8-4c6f-84bb-178a649adaed",
+      "title": "Customer Onboarding Manager, Enterprise | EMEA ",
+      "company": "Deel",
+      "location": "Spain",
+      "url": "https://jobs.ashbyhq.com/deel/a660e291-30a8-4c6f-84bb-178a649adaed",
+      "posted_date": "",
+      "source": "ashby",
+      "sector": "hr_tech",
+      "company_type": "multinational",
+      "category": "learning_development"
+    },
+    {
+      "id": "ab_deel_a7fb85da-970b-4628-83a2-c660acd598e3",
+      "title": "HR Experience Specialist | Spain",
+      "company": "Deel",
+      "location": "Spain",
+      "url": "https://jobs.ashbyhq.com/deel/a7fb85da-970b-4628-83a2-c660acd598e3",
+      "posted_date": "",
+      "source": "ashby",
+      "sector": "hr_tech",
+      "company_type": "multinational",
+      "category": "other"
+    },
+    {
+      "id": "ab_deel_fa0aadb4-fc99-4a4c-915e-81f5012141e0",
+      "title": "People Relations Partner (EMEA)",
+      "company": "Deel",
+      "location": "Spain",
+      "url": "https://jobs.ashbyhq.com/deel/fa0aadb4-fc99-4a4c-915e-81f5012141e0",
+      "posted_date": "",
+      "source": "ashby",
+      "sector": "hr_tech",
+      "company_type": "multinational",
+      "category": "other"
+    },
+    {
+      "id": "ab_deel_d83c7dad-27ed-4a6a-9882-8613be185d01",
+      "title": "People Relations Partner (EMEA)",
+      "company": "Deel",
+      "location": "Spain",
+      "url": "https://jobs.ashbyhq.com/deel/d83c7dad-27ed-4a6a-9882-8613be185d01",
+      "posted_date": "",
+      "source": "ashby",
+      "sector": "hr_tech",
+      "company_type": "multinational",
+      "category": "other"
     }
   ],
   "stats": {
-    "total_jobs": 21,
+    "total_jobs": 26,
     "companies_scraped": 213,
-    "companies_with_jobs": 8,
+    "companies_with_jobs": 10,
     "by_source": {
-      "greenhouse": 19,
-      "ashby": 2
+      "greenhouse": 20,
+      "ashby": 6
     },
     "by_category": {
+      "other": 8,
       "talent_acquisition": 4,
-      "other": 4,
       "hrbp": 9,
       "people_analytics": 2,
       "leadership": 1,
-      "compensation_benefits": 1
+      "compensation_benefits": 1,
+      "learning_development": 1
     },
     "by_sector": {
+      "tech": 5,
       "events": 1,
       "delivery": 4,
-      "hr_tech": 5,
+      "hr_tech": 9,
       "marketing": 1,
       "traveltech": 2,
       "gaming": 2,
-      "tech": 4,
       "insurtech": 2
     }
   },
-  "last_updated": "2026-01-08T18:08:57.542550"
+  "last_updated": "2026-01-08T18:15:56.580232"
 }
