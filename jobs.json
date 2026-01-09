@@ -277,6 +277,30 @@
       "category": "talent_acquisition"
     },
     {
+      "id": "tt_sateliot_1811007568752195993",
+      "title": "Head of HR Operations & Administration.",
+      "company": "Sateliot",
+      "location": "Barcelona",
+      "url": "https://careers.sateliot.com/jobs/7009020-head-of-hr-operations-administration",
+      "posted_date": "",
+      "source": "teamtailor",
+      "sector": "spacetech",
+      "company_type": "startup",
+      "category": "people_ops"
+    },
+    {
+      "id": "tt_sateliot_-4610096347190146491",
+      "title": "Junior Talent Acquisition Specialist",
+      "company": "Sateliot",
+      "location": "Barcelona",
+      "url": "https://careers.sateliot.com/jobs/7008992-junior-talent-acquisition-specialist",
+      "posted_date": "",
+      "source": "teamtailor",
+      "sector": "spacetech",
+      "company_type": "startup",
+      "category": "talent_acquisition"
+    },
+    {
       "id": "ab_alan_1c575437-86b0-44ac-aca4-dede4b3412e8",
       "title": "People data & systems specialist",
       "company": "Alan",
@@ -299,30 +323,6 @@
       "sector": "insurtech",
       "company_type": "scaleup",
       "category": "other"
-    },
-    {
-      "id": "tt_sateliot_5656196420894053879",
-      "title": "Head of HR Operations & Administration.",
-      "company": "Sateliot",
-      "location": "Barcelona",
-      "url": "https://careers.sateliot.com/jobs/7009020-head-of-hr-operations-administration",
-      "posted_date": "",
-      "source": "teamtailor",
-      "sector": "spacetech",
-      "company_type": "startup",
-      "category": "people_ops"
-    },
-    {
-      "id": "tt_sateliot_-5832178096611646866",
-      "title": "Junior Talent Acquisition Specialist",
-      "company": "Sateliot",
-      "location": "Barcelona",
-      "url": "https://careers.sateliot.com/jobs/7008992-junior-talent-acquisition-specialist",
-      "posted_date": "",
-      "source": "teamtailor",
-      "sector": "spacetech",
-      "company_type": "startup",
-      "category": "talent_acquisition"
     },
     {
       "id": "ab_deel_a7fb85da-970b-4628-83a2-c660acd598e3",
@@ -363,7 +363,7 @@
   ],
   "stats": {
     "total_jobs": 30,
-    "companies_scraped": 225,
+    "companies_scraped": 224,
     "companies_with_jobs": 12,
     "by_source": {
       "greenhouse": 22,
@@ -388,9 +388,9 @@
       "traveltech": 2,
       "gaming": 2,
       "tech": 4,
-      "insurtech": 2,
-      "spacetech": 2
+      "spacetech": 2,
+      "insurtech": 2
     }
   },
-  "last_updated": "2026-01-09T14:26:52.884751"
+  "last_updated": "2026-01-09T15:11:24.647216"
 }
