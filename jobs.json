@@ -301,7 +301,7 @@
       "category": "other"
     },
     {
-      "id": "tt_sateliot_-1712403460975045233",
+      "id": "tt_sateliot_-3713604517634808390",
       "title": "Head of HR Operations & Administration.",
       "company": "Sateliot",
       "location": "Barcelona",
@@ -313,7 +313,7 @@
       "category": "people_ops"
     },
     {
-      "id": "tt_sateliot_247229761922754701",
+      "id": "tt_sateliot_-3281374447442260006",
       "title": "Junior Talent Acquisition Specialist",
       "company": "Sateliot",
       "location": "Barcelona",
@@ -363,7 +363,7 @@
   ],
   "stats": {
     "total_jobs": 30,
-    "companies_scraped": 248,
+    "companies_scraped": 247,
     "companies_with_jobs": 12,
     "by_source": {
       "greenhouse": 22,
@@ -392,5 +392,5 @@
       "spacetech": 2
     }
   },
-  "last_updated": "2026-01-09T23:20:49.315005"
+  "last_updated": "2026-01-09T23:37:21.769530"
 }
