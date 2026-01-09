@@ -49,6 +49,18 @@
       "category": "other"
     },
     {
+      "id": "gh_typeform_7449058",
+      "title": "Associate Digital Analytics Specialist",
+      "company": "Typeform",
+      "location": "Spain (Remote) ",
+      "url": "https://job-boards.greenhouse.io/typeform/jobs/7449058",
+      "posted_date": "2026-01-07",
+      "source": "greenhouse",
+      "sector": "saas",
+      "company_type": "unicorn",
+      "category": "other"
+    },
+    {
       "id": "gh_glovo_8207091002",
       "title": "Global Senior Labour Relations Manager (They/She/He)",
       "company": "Glovo",
@@ -71,18 +83,6 @@
       "sector": "delivery",
       "company_type": "unicorn",
       "category": "hrbp"
-    },
-    {
-      "id": "gh_typeform_7449058",
-      "title": "Associate Digital Analytics Specialist",
-      "company": "Typeform",
-      "location": "Spain (Remote) ",
-      "url": "https://job-boards.greenhouse.io/typeform/jobs/7449058",
-      "posted_date": "2026-01-07",
-      "source": "greenhouse",
-      "sector": "saas",
-      "company_type": "unicorn",
-      "category": "other"
     },
     {
       "id": "gh_remotecom_7567451003",
@@ -625,6 +625,42 @@
       "category": "talent_acquisition"
     },
     {
+      "id": "lv_qonto_d135cafe-7e1f-4f26-bf93-395e791697cc",
+      "title": "Sales Enablement Specialist",
+      "company": "Qonto",
+      "location": "Barcelona",
+      "url": "https://jobs.lever.co/qonto/d135cafe-7e1f-4f26-bf93-395e791697cc",
+      "posted_date": "",
+      "source": "lever",
+      "sector": "fintech",
+      "company_type": "scaleup",
+      "category": "learning_development"
+    },
+    {
+      "id": "lv_lodgify_52769b8b-9ccc-4f79-afc1-04bbe064c334",
+      "title": "Talent Pool",
+      "company": "Lodgify",
+      "location": "Barcelona - Cataluña",
+      "url": "https://jobs.lever.co/lodgify/52769b8b-9ccc-4f79-afc1-04bbe064c334",
+      "posted_date": "",
+      "source": "lever",
+      "sector": "proptech",
+      "company_type": "scaleup",
+      "category": "other"
+    },
+    {
+      "id": "ab_backmarket_d405e6c0-6dcc-40b3-a605-efc46eb0e4af",
+      "title": "Junior Internal Care & eReputation Manager (IT/ES) ",
+      "company": "Back Market",
+      "location": "Barcelona",
+      "url": "https://jobs.ashbyhq.com/backmarket/d405e6c0-6dcc-40b3-a605-efc46eb0e4af",
+      "posted_date": "",
+      "source": "ashby",
+      "sector": "ecommerce",
+      "company_type": "scaleup",
+      "category": "other"
+    },
+    {
       "id": "ab_alan_1c575437-86b0-44ac-aca4-dede4b3412e8",
       "title": "People data & systems specialist",
       "company": "Alan",
@@ -649,66 +685,6 @@
       "category": "other"
     },
     {
-      "id": "ab_backmarket_d405e6c0-6dcc-40b3-a605-efc46eb0e4af",
-      "title": "Junior Internal Care & eReputation Manager (IT/ES) ",
-      "company": "Back Market",
-      "location": "Barcelona",
-      "url": "https://jobs.ashbyhq.com/backmarket/d405e6c0-6dcc-40b3-a605-efc46eb0e4af",
-      "posted_date": "",
-      "source": "ashby",
-      "sector": "ecommerce",
-      "company_type": "scaleup",
-      "category": "other"
-    },
-    {
-      "id": "lv_lodgify_52769b8b-9ccc-4f79-afc1-04bbe064c334",
-      "title": "Talent Pool",
-      "company": "Lodgify",
-      "location": "Barcelona - Cataluña",
-      "url": "https://jobs.lever.co/lodgify/52769b8b-9ccc-4f79-afc1-04bbe064c334",
-      "posted_date": "",
-      "source": "lever",
-      "sector": "proptech",
-      "company_type": "scaleup",
-      "category": "other"
-    },
-    {
-      "id": "lv_qonto_d135cafe-7e1f-4f26-bf93-395e791697cc",
-      "title": "Sales Enablement Specialist",
-      "company": "Qonto",
-      "location": "Barcelona",
-      "url": "https://jobs.lever.co/qonto/d135cafe-7e1f-4f26-bf93-395e791697cc",
-      "posted_date": "",
-      "source": "lever",
-      "sector": "fintech",
-      "company_type": "scaleup",
-      "category": "learning_development"
-    },
-    {
-      "id": "tt_sateliot_-1761208087766966917",
-      "title": "Head of HR Operations & Administration.",
-      "company": "Sateliot",
-      "location": "Barcelona",
-      "url": "https://careers.sateliot.com/jobs/7009020-head-of-hr-operations-administration",
-      "posted_date": "",
-      "source": "teamtailor",
-      "sector": "spacetech",
-      "company_type": "startup",
-      "category": "people_ops"
-    },
-    {
-      "id": "tt_sateliot_-2506864059331704147",
-      "title": "Junior Talent Acquisition Specialist",
-      "company": "Sateliot",
-      "location": "Barcelona",
-      "url": "https://careers.sateliot.com/jobs/7008992-junior-talent-acquisition-specialist",
-      "posted_date": "",
-      "source": "teamtailor",
-      "sector": "spacetech",
-      "company_type": "startup",
-      "category": "talent_acquisition"
-    },
-    {
       "id": "ab_ashby_0613db68-831a-411c-8469-c37d783a62ad",
       "title": "Content Lead, Talent Trends - EMEA",
       "company": "Ashby",
@@ -731,6 +707,30 @@
       "sector": "hr_tech",
       "company_type": "multinational",
       "category": "other"
+    },
+    {
+      "id": "tt_sateliot_6785240533900856331",
+      "title": "Head of HR Operations & Administration.",
+      "company": "Sateliot",
+      "location": "Barcelona",
+      "url": "https://careers.sateliot.com/jobs/7009020-head-of-hr-operations-administration",
+      "posted_date": "",
+      "source": "teamtailor",
+      "sector": "spacetech",
+      "company_type": "startup",
+      "category": "people_ops"
+    },
+    {
+      "id": "tt_sateliot_-1566108214458215076",
+      "title": "Junior Talent Acquisition Specialist",
+      "company": "Sateliot",
+      "location": "Barcelona",
+      "url": "https://careers.sateliot.com/jobs/7008992-junior-talent-acquisition-specialist",
+      "posted_date": "",
+      "source": "teamtailor",
+      "sector": "spacetech",
+      "company_type": "startup",
+      "category": "talent_acquisition"
     },
     {
       "id": "ab_deel_a660e291-30a8-4c6f-84bb-178a649adaed",
@@ -816,18 +816,18 @@
     "by_sector": {
       "events": 3,
       "fintech": 6,
-      "delivery": 15,
       "saas": 2,
+      "delivery": 15,
       "hr_tech": 17,
       "marketing": 1,
       "gaming": 3,
       "traveltech": 2,
       "tech": 11,
-      "insurtech": 2,
-      "ecommerce": 1,
       "proptech": 1,
+      "ecommerce": 1,
+      "insurtech": 2,
       "spacetech": 2
     }
   },
-  "last_updated": "2026-01-08T23:50:20.089285"
+  "last_updated": "2026-01-09T07:28:49.921427"
 }
