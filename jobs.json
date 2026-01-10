@@ -1,9 +1,9 @@
 {
-  "scraped_at": "2026-01-10T19:35:01.765331",
+  "scraped_at": "2026-01-10T19:47:25.033230",
   "stats": {
-    "total_jobs": 15771,
-    "hr_jobs": 55,
-    "barcelona_jobs": 55,
+    "total_jobs": 15826,
+    "hr_jobs": 57,
+    "barcelona_jobs": 57,
     "companies_scraped": 211,
     "companies_failed": 0
   },
@@ -594,21 +594,6 @@
       "location_type": "barcelona"
     },
     {
-      "id": "d267abb8-0059-42b4-ba78-9023a583161c",
-      "title": "TA Operations Specialist",
-      "company": "Preply",
-      "company_type": "scaleup",
-      "sector": "edtech",
-      "location": "Barcelona",
-      "url": "https://jobs.ashbyhq.com/preply/d267abb8-0059-42b4-ba78-9023a583161c",
-      "ats": "ashby",
-      "department": "Talent Acquisition",
-      "posted_at": "2025-12-08",
-      "category": "other",
-      "remote": true,
-      "location_type": "barcelona"
-    },
-    {
       "id": "1c575437-86b0-44ac-aca4-dede4b3412e8",
       "title": "People data & systems specialist",
       "company": "Alan",
@@ -637,6 +622,21 @@
       "category": "other",
       "remote": false,
       "location_type": "spain_remote"
+    },
+    {
+      "id": "d267abb8-0059-42b4-ba78-9023a583161c",
+      "title": "TA Operations Specialist",
+      "company": "Preply",
+      "company_type": "scaleup",
+      "sector": "edtech",
+      "location": "Barcelona",
+      "url": "https://jobs.ashbyhq.com/preply/d267abb8-0059-42b4-ba78-9023a583161c",
+      "ats": "ashby",
+      "department": "Talent Acquisition",
+      "posted_at": "2025-12-08",
+      "category": "other",
+      "remote": true,
+      "location_type": "barcelona"
     },
     {
       "id": "5100204",
@@ -699,6 +699,36 @@
       "location_type": "global_remote"
     },
     {
+      "id": "7009020-head-of-hr-operations-administration",
+      "title": "Head Of Hr Operations Administration",
+      "company": "Sateliot",
+      "company_type": "startup",
+      "sector": "spacetech",
+      "location": "Barcelona",
+      "url": "https://careers.sateliot.com/jobs/7009020-head-of-hr-operations-administration",
+      "ats": "teamtailor",
+      "department": "",
+      "posted_at": "",
+      "category": "people_ops",
+      "remote": false,
+      "location_type": "barcelona"
+    },
+    {
+      "id": "7008992-junior-talent-acquisition-specialist",
+      "title": "Junior Talent Acquisition Specialist",
+      "company": "Sateliot",
+      "company_type": "startup",
+      "sector": "spacetech",
+      "location": "Barcelona",
+      "url": "https://careers.sateliot.com/jobs/7008992-junior-talent-acquisition-specialist",
+      "ats": "teamtailor",
+      "department": "",
+      "posted_at": "",
+      "category": "talent_acquisition",
+      "remote": false,
+      "location_type": "barcelona"
+    },
+    {
       "id": "7540011003",
       "title": "Benefits Specialist, Product Strategy & Renewals",
       "company": "Globalization Partners",
@@ -755,6 +785,21 @@
       "department": "",
       "posted_at": "2026-01-08",
       "category": "hrbp",
+      "remote": true,
+      "location_type": "global_remote"
+    },
+    {
+      "id": "4234537005",
+      "title": "Senior/Staff Technical Recruiter",
+      "company": "Runway",
+      "company_type": "scaleup",
+      "sector": "ai",
+      "location": "Remote",
+      "url": "https://job-boards.greenhouse.io/runwayml/jobs/4234537005",
+      "ats": "greenhouse",
+      "department": "",
+      "posted_at": "2025-07-23",
+      "category": "talent_acquisition",
       "remote": true,
       "location_type": "global_remote"
     },
@@ -817,21 +862,6 @@
       "category": "other",
       "remote": true,
       "location_type": "spain_remote"
-    },
-    {
-      "id": "4234537005",
-      "title": "Senior/Staff Technical Recruiter",
-      "company": "Runway",
-      "company_type": "scaleup",
-      "sector": "ai",
-      "location": "Remote",
-      "url": "https://job-boards.greenhouse.io/runwayml/jobs/4234537005",
-      "ats": "greenhouse",
-      "department": "",
-      "posted_at": "2025-07-23",
-      "category": "talent_acquisition",
-      "remote": true,
-      "location_type": "global_remote"
     }
   ]
 }
