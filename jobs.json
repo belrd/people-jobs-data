@@ -325,30 +325,6 @@
       "category": "other"
     },
     {
-      "id": "tt_sateliot_-8285014093154017820",
-      "title": "Head of HR Operations & Administration.",
-      "company": "Sateliot",
-      "location": "Barcelona",
-      "url": "https://careers.sateliot.com/jobs/7009020-head-of-hr-operations-administration",
-      "posted_date": "",
-      "source": "teamtailor",
-      "sector": "spacetech",
-      "company_type": "startup",
-      "category": "people_ops"
-    },
-    {
-      "id": "tt_sateliot_-8036431825668172064",
-      "title": "Junior Talent Acquisition Specialist",
-      "company": "Sateliot",
-      "location": "Barcelona",
-      "url": "https://careers.sateliot.com/jobs/7008992-junior-talent-acquisition-specialist",
-      "posted_date": "",
-      "source": "teamtailor",
-      "sector": "spacetech",
-      "company_type": "startup",
-      "category": "talent_acquisition"
-    },
-    {
       "id": "ab_deel_a7fb85da-970b-4628-83a2-c660acd598e3",
       "title": "HR Experience Specialist | Spain",
       "company": "Deel",
@@ -386,20 +362,19 @@
     }
   ],
   "stats": {
-    "total_jobs": 32,
-    "companies_scraped": 225,
-    "companies_with_jobs": 14,
+    "total_jobs": 30,
+    "companies_scraped": 224,
+    "companies_with_jobs": 13,
     "by_source": {
       "greenhouse": 22,
       "smartrecruiters": 2,
-      "ashby": 6,
-      "teamtailor": 2
+      "ashby": 6
     },
     "by_category": {
       "other": 6,
-      "people_ops": 5,
+      "people_ops": 4,
       "hrbp": 11,
-      "talent_acquisition": 6,
+      "talent_acquisition": 5,
       "people_analytics": 2,
       "leadership": 1,
       "compensation_benefits": 1
@@ -414,9 +389,8 @@
       "marketing": 1,
       "traveltech": 2,
       "tech": 4,
-      "insurtech": 2,
-      "spacetech": 2
+      "insurtech": 2
     }
   },
-  "last_updated": "2026-01-10T11:31:20.042721"
+  "last_updated": "2026-01-10T11:59:28.311241"
 }
