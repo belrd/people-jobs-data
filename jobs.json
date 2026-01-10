@@ -1,16 +1,6 @@
 {
   "jobs": [
     {
-      "id": "ab_joko_e2129ca3-40d4-4533-b2e0-dee21061e4cb",
-      "title": "Talent Acquisition Manager - Spain Focus",
-      "company": "Joko",
-      "location": "Barcelona",
-      "url": "https://jobs.ashbyhq.com/joko/e2129ca3-40d4-4533-b2e0-dee21061e4cb",
-      "source": "ashby",
-      "category": "talent_acquisition",
-      "posted_at": null
-    },
-    {
       "id": "gh_scopely_4981004008",
       "title": "Compensation Analyst",
       "company": "Scopely",
@@ -29,6 +19,16 @@
       "source": "greenhouse",
       "category": "other",
       "posted_at": "2026-01-10T04:47:13-05:00"
+    },
+    {
+      "id": "ab_joko_e2129ca3-40d4-4533-b2e0-dee21061e4cb",
+      "title": "Talent Acquisition Manager - Spain Focus",
+      "company": "Joko",
+      "location": "Barcelona",
+      "url": "https://jobs.ashbyhq.com/joko/e2129ca3-40d4-4533-b2e0-dee21061e4cb",
+      "source": "ashby",
+      "category": "talent_acquisition",
+      "posted_at": null
     },
     {
       "id": "gh_tripadvisor_7486656",
@@ -161,6 +161,26 @@
       "posted_at": "2025-12-11T08:32:14-05:00"
     },
     {
+      "id": "fc_7801937",
+      "title": "Talent Acquisition Specialist Western Europe",
+      "company": "Factorial",
+      "location": "Barcelona",
+      "url": "https://careers.factorialhr.com/job_posting/talent-acquisition-specialist-western-europe-224530",
+      "source": "factorial",
+      "category": "talent_acquisition",
+      "posted_at": null
+    },
+    {
+      "id": "fc_7020726",
+      "title": "Talent Acquisition Specialist Spanish Market",
+      "company": "Factorial",
+      "location": "Barcelona",
+      "url": "https://careers.factorialhr.com/job_posting/talent-acquisition-specialist-spanish-market-21433",
+      "source": "factorial",
+      "category": "talent_acquisition",
+      "posted_at": null
+    },
+    {
       "id": "gh_pleo_7517533003",
       "title": "Senior Global Payroll Specialist",
       "company": "Pleo",
@@ -191,16 +211,6 @@
       "posted_at": null
     },
     {
-      "id": "gh_feverup_4238197101",
-      "title": "Mid IT Talent Acquisition Specialist",
-      "company": "Fever",
-      "location": "Remote Spain",
-      "url": "https://job-boards.eu.greenhouse.io/feverup/jobs/4238197101",
-      "source": "greenhouse_eu",
-      "category": "talent_acquisition",
-      "posted_at": "2026-01-08T06:28:56-05:00"
-    },
-    {
       "id": "gh_manychat_8359222002",
       "title": "People Analytics Specialist",
       "company": "Manychat",
@@ -209,6 +219,16 @@
       "source": "greenhouse",
       "category": "people_analytics",
       "posted_at": "2026-01-05T12:31:32-05:00"
+    },
+    {
+      "id": "gh_feverup_4238197101",
+      "title": "Mid IT Talent Acquisition Specialist",
+      "company": "Fever",
+      "location": "Remote Spain",
+      "url": "https://job-boards.eu.greenhouse.io/feverup/jobs/4238197101",
+      "source": "greenhouse_eu",
+      "category": "talent_acquisition",
+      "posted_at": "2026-01-08T06:28:56-05:00"
     },
     {
       "id": "ab_preply_d267abb8-0059-42b4-ba78-9023a583161c",
@@ -311,7 +331,7 @@
       "posted_at": null
     },
     {
-      "id": "tt_sateliot_2402323",
+      "id": "tt_sateliot_3650441",
       "title": "Head of HR Operations & Administration.",
       "company": "Sateliot",
       "location": "Barcelona",
@@ -321,7 +341,7 @@
       "posted_at": null
     },
     {
-      "id": "tt_sateliot_5135401",
+      "id": "tt_sateliot_7062126",
       "title": "Junior Talent Acquisition Specialist",
       "company": "Sateliot",
       "location": "Barcelona",
@@ -331,6 +351,6 @@
       "posted_at": null
     }
   ],
-  "last_updated": "2026-01-10T15:06:33.025081",
-  "total_jobs": 33
+  "last_updated": "2026-01-10T15:14:35.358676",
+  "total_jobs": 35
 }
