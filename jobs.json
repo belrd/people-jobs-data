@@ -1,13 +1,28 @@
 {
-  "scraped_at": "2026-01-10T20:14:55.740334",
+  "scraped_at": "2026-01-10T20:33:22.519424",
   "stats": {
     "total_jobs": 15987,
     "hr_jobs": 59,
     "barcelona_jobs": 59,
-    "companies_scraped": 211,
-    "companies_failed": 0
+    "companies_scraped": 167,
+    "companies_failed": 44
   },
   "jobs": [
+    {
+      "id": "adb3ed6f-dccd-4d35-b28c-71865a16b885",
+      "title": "HR Business Partner",
+      "company": "360Learning",
+      "company_type": "multinational",
+      "sector": "edtech",
+      "location": "Paris, Remote",
+      "url": "https://jobs.lever.co/360learning/adb3ed6f-dccd-4d35-b28c-71865a16b885",
+      "ats": "lever",
+      "department": "HR and Employee Experience",
+      "posted_at": "",
+      "category": "hrbp",
+      "remote": true,
+      "location_type": "global_remote"
+    },
     {
       "id": "4981004008",
       "title": "Compensation Analyst",
@@ -36,21 +51,6 @@
       "posted_at": "2026-01-10",
       "category": "other",
       "remote": false,
-      "location_type": "barcelona"
-    },
-    {
-      "id": "e2129ca3-40d4-4533-b2e0-dee21061e4cb",
-      "title": "Talent Acquisition Manager - Spain Focus",
-      "company": "Joko",
-      "company_type": "multinational",
-      "sector": "fintech",
-      "location": "Barcelona",
-      "url": "https://jobs.ashbyhq.com/joko/e2129ca3-40d4-4533-b2e0-dee21061e4cb",
-      "ats": "ashby",
-      "department": "People",
-      "posted_at": "2026-01-08",
-      "category": "talent_acquisition",
-      "remote": true,
       "location_type": "barcelona"
     },
     {
@@ -84,19 +84,19 @@
       "location_type": "barcelona"
     },
     {
-      "id": "adb3ed6f-dccd-4d35-b28c-71865a16b885",
-      "title": "HR Business Partner",
-      "company": "360Learning",
+      "id": "e2129ca3-40d4-4533-b2e0-dee21061e4cb",
+      "title": "Talent Acquisition Manager - Spain Focus",
+      "company": "Joko",
       "company_type": "multinational",
-      "sector": "edtech",
-      "location": "Paris, Remote",
-      "url": "https://jobs.lever.co/360learning/adb3ed6f-dccd-4d35-b28c-71865a16b885",
-      "ats": "lever",
-      "department": "HR and Employee Experience",
-      "posted_at": "",
-      "category": "hrbp",
+      "sector": "fintech",
+      "location": "Barcelona",
+      "url": "https://jobs.ashbyhq.com/joko/e2129ca3-40d4-4533-b2e0-dee21061e4cb",
+      "ats": "ashby",
+      "department": "People",
+      "posted_at": "2026-01-08",
+      "category": "talent_acquisition",
       "remote": true,
-      "location_type": "global_remote"
+      "location_type": "barcelona"
     },
     {
       "id": "8207091002",
@@ -549,6 +549,21 @@
       "location_type": "uk_remote"
     },
     {
+      "id": "7517533003",
+      "title": "Senior Global Payroll Specialist",
+      "company": "Pleo",
+      "company_type": "scaleup",
+      "sector": "fintech",
+      "location": "Spain / Portugal",
+      "url": "https://pleo.io/en/careers/jobs/7517533003?gh_jid=7517533003",
+      "ats": "greenhouse",
+      "department": "",
+      "posted_at": "2026-01-09",
+      "category": "people_ops",
+      "remote": false,
+      "location_type": "spain_remote"
+    },
+    {
       "id": "talent-acquisition-specialist-western-europe-224530",
       "title": "Talent Acquisition Specialist Western Europe",
       "company": "Factorial",
@@ -577,21 +592,6 @@
       "category": "talent_acquisition",
       "remote": false,
       "location_type": "barcelona"
-    },
-    {
-      "id": "7517533003",
-      "title": "Senior Global Payroll Specialist",
-      "company": "Pleo",
-      "company_type": "scaleup",
-      "sector": "fintech",
-      "location": "Spain / Portugal",
-      "url": "https://pleo.io/en/careers/jobs/7517533003?gh_jid=7517533003",
-      "ats": "greenhouse",
-      "department": "",
-      "posted_at": "2026-01-09",
-      "category": "people_ops",
-      "remote": false,
-      "location_type": "spain_remote"
     },
     {
       "id": "4238197101",
@@ -819,21 +819,6 @@
       "location_type": "global_remote"
     },
     {
-      "id": "4234537005",
-      "title": "Senior/Staff Technical Recruiter",
-      "company": "Runway",
-      "company_type": "scaleup",
-      "sector": "ai",
-      "location": "Remote",
-      "url": "https://job-boards.greenhouse.io/runwayml/jobs/4234537005",
-      "ats": "greenhouse",
-      "department": "",
-      "posted_at": "2025-07-23",
-      "category": "talent_acquisition",
-      "remote": true,
-      "location_type": "global_remote"
-    },
-    {
       "id": "d4b72ae1-c26f-485b-bb1b-9858ff6c4e62",
       "title": "Senior HR Implementation Manager",
       "company": "Deel",
@@ -892,6 +877,21 @@
       "category": "other",
       "remote": true,
       "location_type": "spain_remote"
+    },
+    {
+      "id": "4234537005",
+      "title": "Senior/Staff Technical Recruiter",
+      "company": "Runway",
+      "company_type": "scaleup",
+      "sector": "ai",
+      "location": "Remote",
+      "url": "https://job-boards.greenhouse.io/runwayml/jobs/4234537005",
+      "ats": "greenhouse",
+      "department": "",
+      "posted_at": "2025-07-23",
+      "category": "talent_acquisition",
+      "remote": true,
+      "location_type": "global_remote"
     }
   ]
 }
