@@ -1,6 +1,15 @@
 {
   "jobs": [
     {
+      "id": "ab_joko_e2129ca3-40d4-4533-b2e0-dee21061e4cb",
+      "title": "Talent Acquisition Manager - Spain Focus",
+      "company": "Joko",
+      "location": "Barcelona",
+      "url": "https://jobs.ashbyhq.com/joko/e2129ca3-40d4-4533-b2e0-dee21061e4cb",
+      "source": "ashby",
+      "category": "talent_acquisition"
+    },
+    {
       "id": "gh_scopely_4981004008",
       "title": "Compensation Analyst",
       "company": "Scopely",
@@ -17,15 +26,6 @@
       "url": "https://job-boards.greenhouse.io/scopely/jobs/5016025008",
       "source": "greenhouse",
       "category": "other"
-    },
-    {
-      "id": "ab_joko_e2129ca3-40d4-4533-b2e0-dee21061e4cb",
-      "title": "Talent Acquisition Manager - Spain Focus",
-      "company": "Joko",
-      "location": "Barcelona",
-      "url": "https://jobs.ashbyhq.com/joko/e2129ca3-40d4-4533-b2e0-dee21061e4cb",
-      "source": "ashby",
-      "category": "talent_acquisition"
     },
     {
       "id": "gh_tripadvisor_7486656",
@@ -262,7 +262,7 @@
       "category": "other"
     },
     {
-      "id": "tt_sateliot_1947868",
+      "id": "tt_sateliot_4942730",
       "title": "Head of HR Operations & Administration.",
       "company": "Sateliot",
       "location": "Barcelona",
@@ -271,7 +271,7 @@
       "category": "people_ops"
     },
     {
-      "id": "tt_sateliot_2342955",
+      "id": "tt_sateliot_6756699",
       "title": "Junior Talent Acquisition Specialist",
       "company": "Sateliot",
       "location": "Barcelona",
@@ -280,6 +280,6 @@
       "category": "talent_acquisition"
     }
   ],
-  "last_updated": "2026-01-10T12:54:19.212481",
+  "last_updated": "2026-01-10T13:12:20.969336",
   "total_jobs": 31
 }
