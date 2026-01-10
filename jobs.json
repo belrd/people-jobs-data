@@ -1,26 +1,6 @@
 {
   "jobs": [
     {
-      "id": "gh_scopely_4981004008",
-      "title": "Compensation Analyst",
-      "company": "Scopely",
-      "location": "ES - Barcelona, Spain",
-      "url": "https://job-boards.greenhouse.io/scopely/jobs/4981004008",
-      "source": "greenhouse",
-      "category": "compensation_benefits",
-      "posted_at": "2025-11-21T22:31:56-05:00"
-    },
-    {
-      "id": "gh_scopely_5016025008",
-      "title": "Lead, People Business Partner - Monopoly GO!",
-      "company": "Scopely",
-      "location": "ES - Barcelona, Spain",
-      "url": "https://job-boards.greenhouse.io/scopely/jobs/5016025008",
-      "source": "greenhouse",
-      "category": "other",
-      "posted_at": "2026-01-10T04:47:13-05:00"
-    },
-    {
       "id": "ab_joko_e2129ca3-40d4-4533-b2e0-dee21061e4cb",
       "title": "Talent Acquisition Manager - Spain Focus",
       "company": "Joko",
@@ -29,26 +9,6 @@
       "source": "ashby",
       "category": "talent_acquisition",
       "posted_at": null
-    },
-    {
-      "id": "gh_tripadvisor_7486656",
-      "title": "HR Generalist Iberia (Temp) ",
-      "company": "Tripadvisor",
-      "location": "Barcelona",
-      "url": "https://job-boards.greenhouse.io/tripadvisor/jobs/7486656",
-      "source": "greenhouse",
-      "category": "hrbp",
-      "posted_at": "2025-12-19T05:37:09-05:00"
-    },
-    {
-      "id": "gh_tripadvisor_7440486",
-      "title": "Talent Acquisition Specialist",
-      "company": "Tripadvisor",
-      "location": "Barcelona",
-      "url": "https://job-boards.greenhouse.io/tripadvisor/jobs/7440486",
-      "source": "greenhouse",
-      "category": "talent_acquisition",
-      "posted_at": "2025-12-05T09:01:12-05:00"
     },
     {
       "id": "gh_glovo_8207091002",
@@ -89,6 +49,26 @@
       "source": "greenhouse",
       "category": "talent_acquisition",
       "posted_at": "2025-12-16T07:26:47-05:00"
+    },
+    {
+      "id": "fc_6732019",
+      "title": "Talent Acquisition Specialist Western Europe",
+      "company": "Factorial",
+      "location": "Barcelona",
+      "url": "https://careers.factorialhr.com/job_posting/talent-acquisition-specialist-western-europe-224530",
+      "source": "factorial",
+      "category": "talent_acquisition",
+      "posted_at": null
+    },
+    {
+      "id": "fc_8128902",
+      "title": "Talent Acquisition Specialist Spanish Market",
+      "company": "Factorial",
+      "location": "Barcelona",
+      "url": "https://careers.factorialhr.com/job_posting/talent-acquisition-specialist-spanish-market-21433",
+      "source": "factorial",
+      "category": "talent_acquisition",
+      "posted_at": null
     },
     {
       "id": "gh_remotecom_7564284003",
@@ -161,26 +141,6 @@
       "posted_at": "2025-12-11T08:32:14-05:00"
     },
     {
-      "id": "fc_7801937",
-      "title": "Talent Acquisition Specialist Western Europe",
-      "company": "Factorial",
-      "location": "Barcelona",
-      "url": "https://careers.factorialhr.com/job_posting/talent-acquisition-specialist-western-europe-224530",
-      "source": "factorial",
-      "category": "talent_acquisition",
-      "posted_at": null
-    },
-    {
-      "id": "fc_7020726",
-      "title": "Talent Acquisition Specialist Spanish Market",
-      "company": "Factorial",
-      "location": "Barcelona",
-      "url": "https://careers.factorialhr.com/job_posting/talent-acquisition-specialist-spanish-market-21433",
-      "source": "factorial",
-      "category": "talent_acquisition",
-      "posted_at": null
-    },
-    {
       "id": "gh_pleo_7517533003",
       "title": "Senior Global Payroll Specialist",
       "company": "Pleo",
@@ -211,16 +171,6 @@
       "posted_at": null
     },
     {
-      "id": "gh_manychat_8359222002",
-      "title": "People Analytics Specialist",
-      "company": "Manychat",
-      "location": "Barcelona, Spain",
-      "url": "https://boards.greenhouse.io/manychat/jobs/8359222002?gh_jid=8359222002",
-      "source": "greenhouse",
-      "category": "people_analytics",
-      "posted_at": "2026-01-05T12:31:32-05:00"
-    },
-    {
       "id": "gh_feverup_4238197101",
       "title": "Mid IT Talent Acquisition Specialist",
       "company": "Fever",
@@ -229,6 +179,16 @@
       "source": "greenhouse_eu",
       "category": "talent_acquisition",
       "posted_at": "2026-01-08T06:28:56-05:00"
+    },
+    {
+      "id": "gh_manychat_8359222002",
+      "title": "People Analytics Specialist",
+      "company": "Manychat",
+      "location": "Barcelona, Spain",
+      "url": "https://boards.greenhouse.io/manychat/jobs/8359222002?gh_jid=8359222002",
+      "source": "greenhouse",
+      "category": "people_analytics",
+      "posted_at": "2026-01-05T12:31:32-05:00"
     },
     {
       "id": "ab_preply_d267abb8-0059-42b4-ba78-9023a583161c",
@@ -331,7 +291,7 @@
       "posted_at": null
     },
     {
-      "id": "tt_sateliot_3650441",
+      "id": "tt_sateliot_1297699",
       "title": "Head of HR Operations & Administration.",
       "company": "Sateliot",
       "location": "Barcelona",
@@ -341,7 +301,7 @@
       "posted_at": null
     },
     {
-      "id": "tt_sateliot_7062126",
+      "id": "tt_sateliot_8097269",
       "title": "Junior Talent Acquisition Specialist",
       "company": "Sateliot",
       "location": "Barcelona",
@@ -349,8 +309,48 @@
       "source": "teamtailor",
       "category": "talent_acquisition",
       "posted_at": null
+    },
+    {
+      "id": "gh_scopely_4981004008",
+      "title": "Compensation Analyst",
+      "company": "Scopely",
+      "location": "ES - Barcelona, Spain",
+      "url": "https://job-boards.greenhouse.io/scopely/jobs/4981004008",
+      "source": "greenhouse",
+      "category": "compensation_benefits",
+      "posted_at": "2025-11-21T22:31:56-05:00"
+    },
+    {
+      "id": "gh_scopely_5016025008",
+      "title": "Lead, People Business Partner - Monopoly GO!",
+      "company": "Scopely",
+      "location": "ES - Barcelona, Spain",
+      "url": "https://job-boards.greenhouse.io/scopely/jobs/5016025008",
+      "source": "greenhouse",
+      "category": "other",
+      "posted_at": "2026-01-10T04:47:13-05:00"
+    },
+    {
+      "id": "gh_tripadvisor_7486656",
+      "title": "HR Generalist Iberia (Temp) ",
+      "company": "Tripadvisor",
+      "location": "Barcelona",
+      "url": "https://job-boards.greenhouse.io/tripadvisor/jobs/7486656",
+      "source": "greenhouse",
+      "category": "hrbp",
+      "posted_at": "2025-12-19T05:37:09-05:00"
+    },
+    {
+      "id": "gh_tripadvisor_7440486",
+      "title": "Talent Acquisition Specialist",
+      "company": "Tripadvisor",
+      "location": "Barcelona",
+      "url": "https://job-boards.greenhouse.io/tripadvisor/jobs/7440486",
+      "source": "greenhouse",
+      "category": "talent_acquisition",
+      "posted_at": "2025-12-05T09:01:12-05:00"
     }
   ],
-  "last_updated": "2026-01-10T15:14:35.358676",
+  "last_updated": "2026-01-10T15:31:15.603465",
   "total_jobs": 35
 }
