@@ -1,6 +1,15 @@
 {
   "jobs": [
     {
+      "id": "ab_joko_e2129ca3-40d4-4533-b2e0-dee21061e4cb",
+      "title": "Talent Acquisition Manager - Spain Focus",
+      "company": "Joko",
+      "location": "Barcelona",
+      "url": "https://jobs.ashbyhq.com/joko/e2129ca3-40d4-4533-b2e0-dee21061e4cb",
+      "source": "ashby",
+      "category": "talent_acquisition"
+    },
+    {
       "id": "gh_scopely_4981004008",
       "title": "Compensation Analyst",
       "company": "Scopely",
@@ -17,15 +26,6 @@
       "url": "https://job-boards.greenhouse.io/scopely/jobs/5016025008",
       "source": "greenhouse",
       "category": "other"
-    },
-    {
-      "id": "ab_joko_e2129ca3-40d4-4533-b2e0-dee21061e4cb",
-      "title": "Talent Acquisition Manager - Spain Focus",
-      "company": "Joko",
-      "location": "Barcelona",
-      "url": "https://jobs.ashbyhq.com/joko/e2129ca3-40d4-4533-b2e0-dee21061e4cb",
-      "source": "ashby",
-      "category": "talent_acquisition"
     },
     {
       "id": "gh_tripadvisor_7486656",
@@ -145,16 +145,7 @@
       "category": "people_ops"
     },
     {
-      "id": "gh_pleo_7517533003",
-      "title": "Senior Global Payroll Specialist",
-      "company": "Pleo",
-      "location": "Spain / Portugal",
-      "url": "https://pleo.io/en/careers/jobs/7517533003?gh_jid=7517533003",
-      "source": "greenhouse",
-      "category": "people_ops"
-    },
-    {
-      "id": "fc_7399248",
+      "id": "fc_2243641",
       "title": "Talent Acquisition Specialist Western Europe",
       "company": "Factorial",
       "location": "Barcelona",
@@ -163,13 +154,22 @@
       "category": "talent_acquisition"
     },
     {
-      "id": "fc_8322688",
+      "id": "fc_1615080",
       "title": "Talent Acquisition Specialist Spanish Market",
       "company": "Factorial",
       "location": "Barcelona",
       "url": "https://careers.factorialhr.com/job_posting/talent-acquisition-specialist-spanish-market-21433",
       "source": "factorial",
       "category": "talent_acquisition"
+    },
+    {
+      "id": "gh_pleo_7517533003",
+      "title": "Senior Global Payroll Specialist",
+      "company": "Pleo",
+      "location": "Spain / Portugal",
+      "url": "https://pleo.io/en/careers/jobs/7517533003?gh_jid=7517533003",
+      "source": "greenhouse",
+      "category": "people_ops"
     },
     {
       "id": "ab_alan_1c575437-86b0-44ac-aca4-dede4b3412e8",
@@ -202,6 +202,15 @@
       "id": "sr_Docplanner_744000102538395",
       "title": "HR Business Partner",
       "company": "Docplanner",
+      "location": "Barcelona, es",
+      "url": "https://api.smartrecruiters.com/v1/companies/Docplanner/postings/744000102538395",
+      "source": "smartrecruiters",
+      "category": "hrbp"
+    },
+    {
+      "id": "sr_Docplanner_744000102538395",
+      "title": "HR Business Partner",
+      "company": "Doctoralia",
       "location": "Barcelona, es",
       "url": "https://api.smartrecruiters.com/v1/companies/Docplanner/postings/744000102538395",
       "source": "smartrecruiters",
@@ -244,13 +253,13 @@
       "category": "hrbp"
     },
     {
-      "id": "sr_Docplanner_744000102538395",
-      "title": "HR Business Partner",
-      "company": "Doctoralia",
-      "location": "Barcelona, es",
-      "url": "https://api.smartrecruiters.com/v1/companies/Docplanner/postings/744000102538395",
-      "source": "smartrecruiters",
-      "category": "hrbp"
+      "id": "ab_preply_d267abb8-0059-42b4-ba78-9023a583161c",
+      "title": "TA Operations Specialist",
+      "company": "Preply",
+      "location": "Barcelona",
+      "url": "https://jobs.ashbyhq.com/preply/d267abb8-0059-42b4-ba78-9023a583161c",
+      "source": "ashby",
+      "category": "other"
     },
     {
       "id": "ab_deel_a7fb85da-970b-4628-83a2-c660acd598e3",
@@ -280,7 +289,7 @@
       "category": "other"
     },
     {
-      "id": "tt_sateliot_3688586",
+      "id": "tt_sateliot_1002084",
       "title": "Head of HR Operations & Administration.",
       "company": "Sateliot",
       "location": "Barcelona",
@@ -289,7 +298,7 @@
       "category": "people_ops"
     },
     {
-      "id": "tt_sateliot_2490278",
+      "id": "tt_sateliot_1828221",
       "title": "Junior Talent Acquisition Specialist",
       "company": "Sateliot",
       "location": "Barcelona",
@@ -298,6 +307,6 @@
       "category": "talent_acquisition"
     }
   ],
-  "last_updated": "2026-01-10T13:19:45.329541",
-  "total_jobs": 33
+  "last_updated": "2026-01-10T13:30:45.990135",
+  "total_jobs": 34
 }
