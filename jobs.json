@@ -191,7 +191,7 @@
       "posted_at": null
     },
     {
-      "id": "fc_8323894",
+      "id": "fc_6472102",
       "title": "Talent Acquisition Specialist Western Europe",
       "company": "Factorial",
       "location": "Barcelona",
@@ -201,7 +201,7 @@
       "posted_at": null
     },
     {
-      "id": "fc_8180436",
+      "id": "fc_4865708",
       "title": "Talent Acquisition Specialist Spanish Market",
       "company": "Factorial",
       "location": "Barcelona",
@@ -209,16 +209,6 @@
       "source": "factorial",
       "category": "talent_acquisition",
       "posted_at": null
-    },
-    {
-      "id": "gh_manychat_8359222002",
-      "title": "People Analytics Specialist",
-      "company": "Manychat",
-      "location": "Barcelona, Spain",
-      "url": "https://boards.greenhouse.io/manychat/jobs/8359222002?gh_jid=8359222002",
-      "source": "greenhouse",
-      "category": "people_analytics",
-      "posted_at": "2026-01-05T12:31:32-05:00"
     },
     {
       "id": "gh_feverup_4238197101",
@@ -229,6 +219,16 @@
       "source": "greenhouse_eu",
       "category": "talent_acquisition",
       "posted_at": "2026-01-08T06:28:56-05:00"
+    },
+    {
+      "id": "gh_manychat_8359222002",
+      "title": "People Analytics Specialist",
+      "company": "Manychat",
+      "location": "Barcelona, Spain",
+      "url": "https://boards.greenhouse.io/manychat/jobs/8359222002?gh_jid=8359222002",
+      "source": "greenhouse",
+      "category": "people_analytics",
+      "posted_at": "2026-01-05T12:31:32-05:00"
     },
     {
       "id": "ab_preply_d267abb8-0059-42b4-ba78-9023a583161c",
@@ -244,16 +244,6 @@
       "id": "sr_Docplanner_744000102538395",
       "title": "HR Business Partner",
       "company": "Docplanner",
-      "location": "Barcelona, es",
-      "url": "https://api.smartrecruiters.com/v1/companies/Docplanner/postings/744000102538395",
-      "source": "smartrecruiters",
-      "category": "hrbp",
-      "posted_at": "2026-01-09T09:35:27.640Z"
-    },
-    {
-      "id": "sr_Docplanner_744000102538395",
-      "title": "HR Business Partner",
-      "company": "Doctoralia",
       "location": "Barcelona, es",
       "url": "https://api.smartrecruiters.com/v1/companies/Docplanner/postings/744000102538395",
       "source": "smartrecruiters",
@@ -301,6 +291,16 @@
       "posted_at": "2025-12-01T03:24:47-05:00"
     },
     {
+      "id": "sr_Docplanner_744000102538395",
+      "title": "HR Business Partner",
+      "company": "Doctoralia",
+      "location": "Barcelona, es",
+      "url": "https://api.smartrecruiters.com/v1/companies/Docplanner/postings/744000102538395",
+      "source": "smartrecruiters",
+      "category": "hrbp",
+      "posted_at": "2026-01-09T09:35:27.640Z"
+    },
+    {
       "id": "ab_deel_a7fb85da-970b-4628-83a2-c660acd598e3",
       "title": "HR Experience Specialist | Spain",
       "company": "Deel",
@@ -331,7 +331,7 @@
       "posted_at": null
     },
     {
-      "id": "tt_sateliot_9695812",
+      "id": "tt_sateliot_1120428",
       "title": "Head of HR Operations & Administration.",
       "company": "Sateliot",
       "location": "Barcelona",
@@ -341,7 +341,7 @@
       "posted_at": null
     },
     {
-      "id": "tt_sateliot_7780038",
+      "id": "tt_sateliot_5353530",
       "title": "Junior Talent Acquisition Specialist",
       "company": "Sateliot",
       "location": "Barcelona",
@@ -351,6 +351,6 @@
       "posted_at": null
     }
   ],
-  "last_updated": "2026-01-10T16:31:53.895548",
+  "last_updated": "2026-01-10T16:55:28.861440",
   "total_jobs": 35
 }
