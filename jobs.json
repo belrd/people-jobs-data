@@ -1,15 +1,6 @@
 {
   "jobs": [
     {
-      "id": "ab_joko_e2129ca3-40d4-4533-b2e0-dee21061e4cb",
-      "title": "Talent Acquisition Manager - Spain Focus",
-      "company": "Joko",
-      "location": "Barcelona",
-      "url": "https://jobs.ashbyhq.com/joko/e2129ca3-40d4-4533-b2e0-dee21061e4cb",
-      "source": "ashby",
-      "category": "talent_acquisition"
-    },
-    {
       "id": "gh_scopely_4981004008",
       "title": "Compensation Analyst",
       "company": "Scopely",
@@ -26,6 +17,15 @@
       "url": "https://job-boards.greenhouse.io/scopely/jobs/5016025008",
       "source": "greenhouse",
       "category": "other"
+    },
+    {
+      "id": "ab_joko_e2129ca3-40d4-4533-b2e0-dee21061e4cb",
+      "title": "Talent Acquisition Manager - Spain Focus",
+      "company": "Joko",
+      "location": "Barcelona",
+      "url": "https://jobs.ashbyhq.com/joko/e2129ca3-40d4-4533-b2e0-dee21061e4cb",
+      "source": "ashby",
+      "category": "talent_acquisition"
     },
     {
       "id": "gh_tripadvisor_7486656",
@@ -154,6 +154,24 @@
       "category": "people_ops"
     },
     {
+      "id": "fc_7399248",
+      "title": "Talent Acquisition Specialist Western Europe",
+      "company": "Factorial",
+      "location": "Barcelona",
+      "url": "https://careers.factorialhr.com/job_posting/talent-acquisition-specialist-western-europe-224530",
+      "source": "factorial",
+      "category": "talent_acquisition"
+    },
+    {
+      "id": "fc_8322688",
+      "title": "Talent Acquisition Specialist Spanish Market",
+      "company": "Factorial",
+      "location": "Barcelona",
+      "url": "https://careers.factorialhr.com/job_posting/talent-acquisition-specialist-spanish-market-21433",
+      "source": "factorial",
+      "category": "talent_acquisition"
+    },
+    {
       "id": "ab_alan_1c575437-86b0-44ac-aca4-dede4b3412e8",
       "title": "People data & systems specialist",
       "company": "Alan",
@@ -262,7 +280,7 @@
       "category": "other"
     },
     {
-      "id": "tt_sateliot_4942730",
+      "id": "tt_sateliot_3688586",
       "title": "Head of HR Operations & Administration.",
       "company": "Sateliot",
       "location": "Barcelona",
@@ -271,7 +289,7 @@
       "category": "people_ops"
     },
     {
-      "id": "tt_sateliot_6756699",
+      "id": "tt_sateliot_2490278",
       "title": "Junior Talent Acquisition Specialist",
       "company": "Sateliot",
       "location": "Barcelona",
@@ -280,6 +298,6 @@
       "category": "talent_acquisition"
     }
   ],
-  "last_updated": "2026-01-10T13:12:20.969336",
-  "total_jobs": 31
+  "last_updated": "2026-01-10T13:19:45.329541",
+  "total_jobs": 33
 }
