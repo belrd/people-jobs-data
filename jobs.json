@@ -1,28 +1,13 @@
 {
-  "scraped_at": "2026-01-10T20:10:29.837085",
+  "scraped_at": "2026-01-10T20:14:55.740334",
   "stats": {
-    "total_jobs": 15978,
-    "hr_jobs": 60,
-    "barcelona_jobs": 60,
+    "total_jobs": 15987,
+    "hr_jobs": 59,
+    "barcelona_jobs": 59,
     "companies_scraped": 211,
     "companies_failed": 0
   },
   "jobs": [
-    {
-      "id": "adb3ed6f-dccd-4d35-b28c-71865a16b885",
-      "title": "HR Business Partner",
-      "company": "360Learning",
-      "company_type": "multinational",
-      "sector": "edtech",
-      "location": "Paris, Remote",
-      "url": "https://jobs.lever.co/360learning/adb3ed6f-dccd-4d35-b28c-71865a16b885",
-      "ats": "lever",
-      "department": "HR and Employee Experience",
-      "posted_at": "",
-      "category": "hrbp",
-      "remote": true,
-      "location_type": "global_remote"
-    },
     {
       "id": "4981004008",
       "title": "Compensation Analyst",
@@ -97,6 +82,21 @@
       "category": "talent_acquisition",
       "remote": false,
       "location_type": "barcelona"
+    },
+    {
+      "id": "adb3ed6f-dccd-4d35-b28c-71865a16b885",
+      "title": "HR Business Partner",
+      "company": "360Learning",
+      "company_type": "multinational",
+      "sector": "edtech",
+      "location": "Paris, Remote",
+      "url": "https://jobs.lever.co/360learning/adb3ed6f-dccd-4d35-b28c-71865a16b885",
+      "ats": "lever",
+      "department": "HR and Employee Experience",
+      "posted_at": "",
+      "category": "hrbp",
+      "remote": true,
+      "location_type": "global_remote"
     },
     {
       "id": "8207091002",
@@ -579,21 +579,6 @@
       "location_type": "barcelona"
     },
     {
-      "id": "partner-development-manager-latam-not-hr-271639",
-      "title": "Partner Development Manager Latam Not Hr",
-      "company": "Factorial",
-      "company_type": "unicorn",
-      "sector": "hr_tech",
-      "location": "Barcelona",
-      "url": "https://careers.factorialhr.com/job_posting/partner-development-manager-latam-not-hr-271639",
-      "ats": "factorial",
-      "department": "",
-      "posted_at": "",
-      "category": "other",
-      "remote": false,
-      "location_type": "barcelona"
-    },
-    {
       "id": "7517533003",
       "title": "Senior Global Payroll Specialist",
       "company": "Pleo",
@@ -624,21 +609,6 @@
       "location_type": "spain_remote"
     },
     {
-      "id": "8359222002",
-      "title": "People Analytics Specialist",
-      "company": "Manychat",
-      "company_type": "scaleup",
-      "sector": "marketing",
-      "location": "Barcelona, Spain",
-      "url": "https://boards.greenhouse.io/manychat/jobs/8359222002?gh_jid=8359222002",
-      "ats": "greenhouse",
-      "department": "",
-      "posted_at": "2026-01-05",
-      "category": "people_analytics",
-      "remote": false,
-      "location_type": "barcelona"
-    },
-    {
       "id": "1c575437-86b0-44ac-aca4-dede4b3412e8",
       "title": "People data & systems specialist",
       "company": "Alan",
@@ -667,6 +637,21 @@
       "category": "other",
       "remote": false,
       "location_type": "spain_remote"
+    },
+    {
+      "id": "8359222002",
+      "title": "People Analytics Specialist",
+      "company": "Manychat",
+      "company_type": "scaleup",
+      "sector": "marketing",
+      "location": "Barcelona, Spain",
+      "url": "https://boards.greenhouse.io/manychat/jobs/8359222002?gh_jid=8359222002",
+      "ats": "greenhouse",
+      "department": "",
+      "posted_at": "2026-01-05",
+      "category": "people_analytics",
+      "remote": false,
+      "location_type": "barcelona"
     },
     {
       "id": "d267abb8-0059-42b4-ba78-9023a583161c",
@@ -834,6 +819,21 @@
       "location_type": "global_remote"
     },
     {
+      "id": "4234537005",
+      "title": "Senior/Staff Technical Recruiter",
+      "company": "Runway",
+      "company_type": "scaleup",
+      "sector": "ai",
+      "location": "Remote",
+      "url": "https://job-boards.greenhouse.io/runwayml/jobs/4234537005",
+      "ats": "greenhouse",
+      "department": "",
+      "posted_at": "2025-07-23",
+      "category": "talent_acquisition",
+      "remote": true,
+      "location_type": "global_remote"
+    },
+    {
       "id": "d4b72ae1-c26f-485b-bb1b-9858ff6c4e62",
       "title": "Senior HR Implementation Manager",
       "company": "Deel",
@@ -892,21 +892,6 @@
       "category": "other",
       "remote": true,
       "location_type": "spain_remote"
-    },
-    {
-      "id": "4234537005",
-      "title": "Senior/Staff Technical Recruiter",
-      "company": "Runway",
-      "company_type": "scaleup",
-      "sector": "ai",
-      "location": "Remote",
-      "url": "https://job-boards.greenhouse.io/runwayml/jobs/4234537005",
-      "ats": "greenhouse",
-      "department": "",
-      "posted_at": "2025-07-23",
-      "category": "talent_acquisition",
-      "remote": true,
-      "location_type": "global_remote"
     }
   ]
 }
