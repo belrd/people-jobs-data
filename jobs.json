@@ -1,167 +1,13 @@
 {
-  "scraped_at": "2026-01-10T17:31:56.086997",
+  "scraped_at": "2026-01-10T17:51:52.966133",
   "stats": {
-    "total_jobs": 10585,
-    "hr_jobs": 52,
-    "barcelona_jobs": 52,
+    "total_jobs": 10588,
+    "hr_jobs": 24,
+    "barcelona_jobs": 24,
     "companies_scraped": 187,
     "companies_failed": 0
   },
   "jobs": [
-    {
-      "id": "7400259",
-      "title": "People Business Partner - Madrid",
-      "company": "Datadog",
-      "company_type": "multinational",
-      "sector": "tech",
-      "location": "Madrid, Spain",
-      "url": "https://careers.datadoghq.com/detail/7400259/?gh_jid=7400259",
-      "ats": "greenhouse",
-      "department": "",
-      "posted_at": "2026-01-09",
-      "category": "other",
-      "remote": false
-    },
-    {
-      "id": "7344405",
-      "title": "Recruiter II - Technical Solutions - FTC",
-      "company": "Datadog",
-      "company_type": "multinational",
-      "sector": "tech",
-      "location": "Dublin, Ireland; London, United Kingdom",
-      "url": "https://careers.datadoghq.com/detail/7344405/?gh_jid=7344405",
-      "ats": "greenhouse",
-      "department": "",
-      "posted_at": "2026-01-09",
-      "category": "talent_acquisition",
-      "remote": false
-    },
-    {
-      "id": "7373455",
-      "title": "Sourcer II, Business Recruiting - Dublin & London",
-      "company": "Datadog",
-      "company_type": "multinational",
-      "sector": "tech",
-      "location": "Dublin, Ireland; London, United Kingdom",
-      "url": "https://careers.datadoghq.com/detail/7373455/?gh_jid=7373455",
-      "ats": "greenhouse",
-      "department": "",
-      "posted_at": "2026-01-09",
-      "category": "talent_acquisition",
-      "remote": false
-    },
-    {
-      "id": "8299370002",
-      "title": "Global Compensation Manager",
-      "company": "SumUp",
-      "company_type": "multinational",
-      "sector": "fintech",
-      "location": "London, England, United Kingdom",
-      "url": "https://sumup.com/careers/positions/8299370002?gh_jid=8299370002",
-      "ats": "greenhouse",
-      "department": "",
-      "posted_at": "2025-12-22",
-      "category": "compensation_benefits",
-      "remote": false
-    },
-    {
-      "id": "8105922002",
-      "title": "Talent Acquisition Sourcer ",
-      "company": "SumUp",
-      "company_type": "multinational",
-      "sector": "fintech",
-      "location": "Warsaw, Poland",
-      "url": "https://sumup.com/careers/positions/8105922002?gh_jid=8105922002",
-      "ats": "greenhouse",
-      "department": "",
-      "posted_at": "2025-12-22",
-      "category": "talent_acquisition",
-      "remote": false
-    },
-    {
-      "id": "7372140",
-      "title": "Senior Technical Recruiter",
-      "company": "Waymo",
-      "company_type": "multinational",
-      "sector": "autonomous_vehicles",
-      "location": "Warsaw, Poland",
-      "url": "https://careers.withwaymo.com/jobs?gh_jid=7372140",
-      "ats": "greenhouse",
-      "department": "",
-      "posted_at": "2025-12-18",
-      "category": "talent_acquisition",
-      "remote": false
-    },
-    {
-      "id": "8301170002",
-      "title": "Beca Talent Acquisition ",
-      "company": "Cabify",
-      "company_type": "multinational",
-      "sector": "mobility",
-      "location": "Madrid",
-      "url": "https://job-boards.greenhouse.io/cabify/jobs/8301170002",
-      "ats": "greenhouse",
-      "department": "",
-      "posted_at": "2025-11-27",
-      "category": "talent_acquisition",
-      "remote": false
-    },
-    {
-      "id": "8003686002",
-      "title": "Diversity and Inclusion Program - Certificate of Disability 33%",
-      "company": "Cabify",
-      "company_type": "multinational",
-      "sector": "mobility",
-      "location": "Madrid",
-      "url": "https://job-boards.greenhouse.io/cabify/jobs/8003686002",
-      "ats": "greenhouse",
-      "department": "",
-      "posted_at": "2025-11-12",
-      "category": "employee_experience",
-      "remote": false
-    },
-    {
-      "id": "8197002002",
-      "title": "Global Compensation Analyst",
-      "company": "Cabify",
-      "company_type": "multinational",
-      "sector": "mobility",
-      "location": "Madrid",
-      "url": "https://job-boards.greenhouse.io/cabify/jobs/8197002002",
-      "ats": "greenhouse",
-      "department": "",
-      "posted_at": "2025-12-30",
-      "category": "compensation_benefits",
-      "remote": false
-    },
-    {
-      "id": "7486656",
-      "title": "HR Generalist Iberia (Temp) ",
-      "company": "Tripadvisor",
-      "company_type": "multinational",
-      "sector": "traveltech",
-      "location": "Barcelona",
-      "url": "https://job-boards.greenhouse.io/tripadvisor/jobs/7486656",
-      "ats": "greenhouse",
-      "department": "",
-      "posted_at": "2025-12-19",
-      "category": "hrbp",
-      "remote": false
-    },
-    {
-      "id": "7440486",
-      "title": "Talent Acquisition Specialist",
-      "company": "Tripadvisor",
-      "company_type": "multinational",
-      "sector": "traveltech",
-      "location": "Barcelona",
-      "url": "https://job-boards.greenhouse.io/tripadvisor/jobs/7440486",
-      "ats": "greenhouse",
-      "department": "",
-      "posted_at": "2025-12-05",
-      "category": "talent_acquisition",
-      "remote": false
-    },
     {
       "id": "4981004008",
       "title": "Compensation Analyst",
@@ -174,7 +20,8 @@
       "department": "",
       "posted_at": "2025-11-21",
       "category": "compensation_benefits",
-      "remote": false
+      "remote": false,
+      "location_type": "barcelona"
     },
     {
       "id": "5016025008",
@@ -188,7 +35,8 @@
       "department": "",
       "posted_at": "2026-01-10",
       "category": "other",
-      "remote": false
+      "remote": false,
+      "location_type": "barcelona"
     },
     {
       "id": "7388550",
@@ -202,7 +50,38 @@
       "department": "",
       "posted_at": "2025-12-15",
       "category": "hrbp",
-      "remote": false
+      "remote": false,
+      "location_type": "uk_remote"
+    },
+    {
+      "id": "7486656",
+      "title": "HR Generalist Iberia (Temp) ",
+      "company": "Tripadvisor",
+      "company_type": "multinational",
+      "sector": "traveltech",
+      "location": "Barcelona",
+      "url": "https://job-boards.greenhouse.io/tripadvisor/jobs/7486656",
+      "ats": "greenhouse",
+      "department": "",
+      "posted_at": "2025-12-19",
+      "category": "hrbp",
+      "remote": false,
+      "location_type": "barcelona"
+    },
+    {
+      "id": "7440486",
+      "title": "Talent Acquisition Specialist",
+      "company": "Tripadvisor",
+      "company_type": "multinational",
+      "sector": "traveltech",
+      "location": "Barcelona",
+      "url": "https://job-boards.greenhouse.io/tripadvisor/jobs/7440486",
+      "ats": "greenhouse",
+      "department": "",
+      "posted_at": "2025-12-05",
+      "category": "talent_acquisition",
+      "remote": false,
+      "location_type": "barcelona"
     },
     {
       "id": "8207091002",
@@ -216,7 +95,8 @@
       "department": "",
       "posted_at": "2026-01-07",
       "category": "other",
-      "remote": false
+      "remote": false,
+      "location_type": "barcelona"
     },
     {
       "id": "8245667002",
@@ -230,7 +110,8 @@
       "department": "",
       "posted_at": "2026-01-07",
       "category": "hrbp",
-      "remote": false
+      "remote": false,
+      "location_type": "barcelona"
     },
     {
       "id": "7839431002",
@@ -244,7 +125,8 @@
       "department": "",
       "posted_at": "2025-12-16",
       "category": "people_ops",
-      "remote": false
+      "remote": false,
+      "location_type": "barcelona"
     },
     {
       "id": "8318669002",
@@ -258,7 +140,8 @@
       "department": "",
       "posted_at": "2025-12-16",
       "category": "talent_acquisition",
-      "remote": false
+      "remote": false,
+      "location_type": "barcelona"
     },
     {
       "id": "7564284003",
@@ -272,7 +155,8 @@
       "department": "",
       "posted_at": "2026-01-05",
       "category": "hrbp",
-      "remote": true
+      "remote": true,
+      "location_type": "global_remote"
     },
     {
       "id": "7563539003",
@@ -286,7 +170,8 @@
       "department": "",
       "posted_at": "2026-01-05",
       "category": "hrbp",
-      "remote": true
+      "remote": true,
+      "location_type": "uk_remote"
     },
     {
       "id": "7576483003",
@@ -300,7 +185,8 @@
       "department": "",
       "posted_at": "2026-01-02",
       "category": "hrbp",
-      "remote": true
+      "remote": true,
+      "location_type": "global_remote"
     },
     {
       "id": "7576482003",
@@ -314,63 +200,8 @@
       "department": "",
       "posted_at": "2026-01-02",
       "category": "hrbp",
-      "remote": true
-    },
-    {
-      "id": "7579334003",
-      "title": "Payroll Specialist Lead - Denmark ",
-      "company": "Remote",
-      "company_type": "scaleup",
-      "sector": "hr_tech",
-      "location": "Remote-Denmark",
-      "url": "https://job-boards.greenhouse.io/remotecom/jobs/7579334003",
-      "ats": "greenhouse",
-      "department": "",
-      "posted_at": "2026-01-06",
-      "category": "people_ops",
-      "remote": true
-    },
-    {
-      "id": "7579333003",
-      "title": "Payroll Specialist Lead - Denmark ",
-      "company": "Remote",
-      "company_type": "scaleup",
-      "sector": "hr_tech",
-      "location": "Remote-Denmark",
-      "url": "https://job-boards.greenhouse.io/remotecom/jobs/7579333003",
-      "ats": "greenhouse",
-      "department": "",
-      "posted_at": "2026-01-06",
-      "category": "people_ops",
-      "remote": true
-    },
-    {
-      "id": "7565026003",
-      "title": "Payroll Specialist Lead - Nordics",
-      "company": "Remote",
-      "company_type": "scaleup",
-      "sector": "hr_tech",
-      "location": "Remote-Denmark",
-      "url": "https://job-boards.greenhouse.io/remotecom/jobs/7565026003",
-      "ats": "greenhouse",
-      "department": "",
-      "posted_at": "2025-12-19",
-      "category": "people_ops",
-      "remote": true
-    },
-    {
-      "id": "7568101003",
-      "title": "Payroll Specialist Lead - Nordics",
-      "company": "Remote",
-      "company_type": "scaleup",
-      "sector": "hr_tech",
-      "location": "Remote-Sweden",
-      "url": "https://job-boards.greenhouse.io/remotecom/jobs/7568101003",
-      "ats": "greenhouse",
-      "department": "",
-      "posted_at": "2025-12-19",
-      "category": "people_ops",
-      "remote": true
+      "remote": true,
+      "location_type": "global_remote"
     },
     {
       "id": "7568751003",
@@ -384,7 +215,8 @@
       "department": "",
       "posted_at": "2025-12-19",
       "category": "talent_acquisition",
-      "remote": true
+      "remote": true,
+      "location_type": "global_remote"
     },
     {
       "id": "7567451003",
@@ -398,7 +230,8 @@
       "department": "",
       "posted_at": "2026-01-07",
       "category": "people_ops",
-      "remote": true
+      "remote": true,
+      "location_type": "global_remote"
     },
     {
       "id": "6690881003",
@@ -412,7 +245,8 @@
       "department": "",
       "posted_at": "2026-01-07",
       "category": "hrbp",
-      "remote": true
+      "remote": true,
+      "location_type": "global_remote"
     },
     {
       "id": "7548213003",
@@ -426,7 +260,8 @@
       "department": "",
       "posted_at": "2025-12-11",
       "category": "people_ops",
-      "remote": true
+      "remote": true,
+      "location_type": "global_remote"
     },
     {
       "id": "7542155003",
@@ -440,7 +275,8 @@
       "department": "",
       "posted_at": "2025-11-29",
       "category": "talent_acquisition",
-      "remote": true
+      "remote": true,
+      "location_type": "uk_remote"
     },
     {
       "id": "7517533003",
@@ -454,21 +290,8 @@
       "department": "",
       "posted_at": "2026-01-09",
       "category": "people_ops",
-      "remote": false
-    },
-    {
-      "id": "8359219002",
-      "title": "People Analytics Specialist",
-      "company": "Manychat",
-      "company_type": "scaleup",
-      "sector": "marketing",
-      "location": "Amsterdam, Netherlands ",
-      "url": "https://boards.greenhouse.io/manychat/jobs/8359219002?gh_jid=8359219002",
-      "ats": "greenhouse",
-      "department": "",
-      "posted_at": "2026-01-05",
-      "category": "people_analytics",
-      "remote": false
+      "remote": false,
+      "location_type": "spain_remote"
     },
     {
       "id": "8359222002",
@@ -482,7 +305,8 @@
       "department": "",
       "posted_at": "2026-01-05",
       "category": "people_analytics",
-      "remote": false
+      "remote": false,
+      "location_type": "barcelona"
     },
     {
       "id": "4722646101",
@@ -496,7 +320,8 @@
       "department": "",
       "posted_at": "2025-12-15",
       "category": "people_ops",
-      "remote": false
+      "remote": false,
+      "location_type": "uk_remote"
     },
     {
       "id": "7475487",
@@ -510,7 +335,8 @@
       "department": "",
       "posted_at": "2026-01-08",
       "category": "hrbp",
-      "remote": false
+      "remote": false,
+      "location_type": "uk_remote"
     },
     {
       "id": "7242004",
@@ -524,105 +350,8 @@
       "department": "",
       "posted_at": "2026-01-08",
       "category": "hrbp",
-      "remote": false
-    },
-    {
-      "id": "5100204",
-      "title": "Head of Talent Development",
-      "company": "Canonical",
-      "company_type": "multinational",
-      "sector": "tech",
-      "location": "Home based - EMEA",
-      "url": "https://job-boards.greenhouse.io/canonical/jobs/5100204",
-      "ats": "greenhouse",
-      "department": "",
-      "posted_at": "2025-12-01",
-      "category": "leadership",
-      "remote": false
-    },
-    {
-      "id": "7055576",
-      "title": "HR Generalist - EMEA",
-      "company": "Canonical",
-      "company_type": "multinational",
-      "sector": "tech",
-      "location": "Home based - EMEA",
-      "url": "https://job-boards.greenhouse.io/canonical/jobs/7055576",
-      "ats": "greenhouse",
-      "department": "",
-      "posted_at": "2025-12-01",
-      "category": "hrbp",
-      "remote": false
-    },
-    {
-      "id": "6180909",
-      "title": "Regional HR Manager - EMEA",
-      "company": "Canonical",
-      "company_type": "multinational",
-      "sector": "tech",
-      "location": "Home based - EMEA",
-      "url": "https://job-boards.greenhouse.io/canonical/jobs/6180909",
-      "ats": "greenhouse",
-      "department": "",
-      "posted_at": "2025-12-01",
-      "category": "hrbp",
-      "remote": false
-    },
-    {
-      "id": "6762650",
-      "title": "Senior HR Generalist - EMEA",
-      "company": "Canonical",
-      "company_type": "multinational",
-      "sector": "tech",
-      "location": "Home based - EMEA",
-      "url": "https://job-boards.greenhouse.io/canonical/jobs/6762650",
-      "ats": "greenhouse",
-      "department": "",
-      "posted_at": "2025-12-01",
-      "category": "hrbp",
-      "remote": false
-    },
-    {
-      "id": "8225256002",
-      "title": "Payroll Analyst",
-      "company": "Databricks",
-      "company_type": "multinational",
-      "sector": "tech",
-      "location": "London, United Kingdom",
-      "url": "https://databricks.com/company/careers/open-positions/job?gh_jid=8225256002",
-      "ats": "greenhouse",
-      "department": "",
-      "posted_at": "2026-01-07",
-      "category": "people_ops",
-      "remote": false
-    },
-    {
-      "id": "8225252002",
-      "title": "Sr. Payroll Analyst",
-      "company": "Databricks",
-      "company_type": "multinational",
-      "sector": "tech",
-      "location": "London, United Kingdom",
-      "url": "https://databricks.com/company/careers/open-positions/job?gh_jid=8225252002",
-      "ats": "greenhouse",
-      "department": "",
-      "posted_at": "2025-12-23",
-      "category": "people_ops",
-      "remote": false
-    },
-    {
-      "id": "8169006002",
-      "title": "Sr. Recruiter - Tech m/d/f",
-      "company": "Databricks",
-      "company_type": "multinational",
-      "sector": "tech",
-      "location": "Berlin, Germany",
-      "url": "https://databricks.com/company/careers/open-positions/job?gh_jid=8169006002",
-      "ats": "greenhouse",
-      "department": "",
-      "posted_at": "2025-12-12",
-      "category": "talent_acquisition",
-      "remote": false
+      "remote": false,
+      "location_type": "uk_remote"
     },
     {
       "id": "7540011003",
@@ -636,105 +365,8 @@
       "department": "",
       "posted_at": "2025-12-11",
       "category": "compensation_benefits",
-      "remote": true
-    },
-    {
-      "id": "7531015003",
-      "title": "HR Specialist (12 month contract)",
-      "company": "Globalization Partners",
-      "company_type": "multinational",
-      "sector": "hr_tech",
-      "location": "Poland (Remote-First)",
-      "url": "https://job-boards.greenhouse.io/globalizationpartners/jobs/7531015003",
-      "ats": "greenhouse",
-      "department": "",
-      "posted_at": "2026-01-08",
-      "category": "hrbp",
-      "remote": true
-    },
-    {
-      "id": "7533614003",
-      "title": "HR Specialist (12 month contract)",
-      "company": "Globalization Partners",
-      "company_type": "multinational",
-      "sector": "hr_tech",
-      "location": "Italy (Remote-First)",
-      "url": "https://job-boards.greenhouse.io/globalizationpartners/jobs/7533614003",
-      "ats": "greenhouse",
-      "department": "",
-      "posted_at": "2026-01-08",
-      "category": "hrbp",
-      "remote": true
-    },
-    {
-      "id": "8298621002",
-      "title": "Europe People Operations Team Lead",
-      "company": "Miro",
-      "company_type": "scaleup",
-      "sector": "saas",
-      "location": "London, UK",
-      "url": "https://miro.com/careers/vacancy/8298621002?gh_jid=8298621002",
-      "ats": "greenhouse",
-      "department": "",
-      "posted_at": "2025-12-18",
-      "category": "people_ops",
-      "remote": false
-    },
-    {
-      "id": "4623445006",
-      "title": "Global Payroll Manager",
-      "company": "CoreWeave",
-      "company_type": "scaleup",
-      "sector": "ai",
-      "location": "London, UK",
-      "url": "https://coreweave.com/careers/job?4623445006&board=coreweave&gh_jid=4623445006",
-      "ats": "greenhouse",
-      "department": "",
-      "posted_at": "2025-12-23",
-      "category": "people_ops",
-      "remote": false
-    },
-    {
-      "id": "8225256002",
-      "title": "Payroll Analyst",
-      "company": "MLflow",
-      "company_type": "scaleup",
-      "sector": "ai",
-      "location": "London, United Kingdom",
-      "url": "https://databricks.com/company/careers/open-positions/job?gh_jid=8225256002",
-      "ats": "greenhouse",
-      "department": "",
-      "posted_at": "2026-01-07",
-      "category": "people_ops",
-      "remote": false
-    },
-    {
-      "id": "8225252002",
-      "title": "Sr. Payroll Analyst",
-      "company": "MLflow",
-      "company_type": "scaleup",
-      "sector": "ai",
-      "location": "London, United Kingdom",
-      "url": "https://databricks.com/company/careers/open-positions/job?gh_jid=8225252002",
-      "ats": "greenhouse",
-      "department": "",
-      "posted_at": "2025-12-23",
-      "category": "people_ops",
-      "remote": false
-    },
-    {
-      "id": "8169006002",
-      "title": "Sr. Recruiter - Tech m/d/f",
-      "company": "MLflow",
-      "company_type": "scaleup",
-      "sector": "ai",
-      "location": "Berlin, Germany",
-      "url": "https://databricks.com/company/careers/open-positions/job?gh_jid=8169006002",
-      "ats": "greenhouse",
-      "department": "",
-      "posted_at": "2025-12-12",
-      "category": "talent_acquisition",
-      "remote": false
+      "remote": true,
+      "location_type": "uk_remote"
     }
   ]
 }
