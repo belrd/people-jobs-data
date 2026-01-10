@@ -1,9 +1,9 @@
 {
-  "scraped_at": "2026-01-10T18:58:13.483560",
+  "scraped_at": "2026-01-10T19:35:01.765331",
   "stats": {
-    "total_jobs": 14827,
-    "hr_jobs": 54,
-    "barcelona_jobs": 54,
+    "total_jobs": 15771,
+    "hr_jobs": 55,
+    "barcelona_jobs": 55,
     "companies_scraped": 211,
     "companies_failed": 0
   },
@@ -22,21 +22,6 @@
       "category": "hrbp",
       "remote": true,
       "location_type": "global_remote"
-    },
-    {
-      "id": "e2129ca3-40d4-4533-b2e0-dee21061e4cb",
-      "title": "Talent Acquisition Manager - Spain Focus",
-      "company": "Joko",
-      "company_type": "multinational",
-      "sector": "fintech",
-      "location": "Barcelona",
-      "url": "https://jobs.ashbyhq.com/joko/e2129ca3-40d4-4533-b2e0-dee21061e4cb",
-      "ats": "ashby",
-      "department": "People",
-      "posted_at": "2026-01-08",
-      "category": "talent_acquisition",
-      "remote": true,
-      "location_type": "barcelona"
     },
     {
       "id": "4981004008",
@@ -66,6 +51,21 @@
       "posted_at": "2026-01-10",
       "category": "other",
       "remote": false,
+      "location_type": "barcelona"
+    },
+    {
+      "id": "e2129ca3-40d4-4533-b2e0-dee21061e4cb",
+      "title": "Talent Acquisition Manager - Spain Focus",
+      "company": "Joko",
+      "company_type": "multinational",
+      "sector": "fintech",
+      "location": "Barcelona",
+      "url": "https://jobs.ashbyhq.com/joko/e2129ca3-40d4-4533-b2e0-dee21061e4cb",
+      "ats": "ashby",
+      "department": "People",
+      "posted_at": "2026-01-08",
+      "category": "talent_acquisition",
+      "remote": true,
       "location_type": "barcelona"
     },
     {
@@ -564,33 +564,18 @@
       "location_type": "spain_remote"
     },
     {
-      "id": "1c575437-86b0-44ac-aca4-dede4b3412e8",
-      "title": "People data & systems specialist",
-      "company": "Alan",
+      "id": "4238197101",
+      "title": "Mid IT Talent Acquisition Specialist",
+      "company": "Fever",
       "company_type": "scaleup",
-      "sector": "insurtech",
-      "location": "Anywhere in France, Belgium, Spain",
-      "url": "https://jobs.ashbyhq.com/alan/1c575437-86b0-44ac-aca4-dede4b3412e8",
-      "ats": "ashby",
-      "department": "Work Environment",
-      "posted_at": "2025-11-28",
-      "category": "people_analytics",
-      "remote": false,
-      "location_type": "spain_remote"
-    },
-    {
-      "id": "a86c8704-3ddb-43e5-861d-90f18808887f",
-      "title": "HR tech & automation",
-      "company": "Alan",
-      "company_type": "scaleup",
-      "sector": "insurtech",
-      "location": "Anywhere in France, Belgium, Spain",
-      "url": "https://jobs.ashbyhq.com/alan/a86c8704-3ddb-43e5-861d-90f18808887f",
-      "ats": "ashby",
-      "department": "Work Environment",
-      "posted_at": "2025-11-28",
-      "category": "other",
-      "remote": false,
+      "sector": "events",
+      "location": "Remote Spain",
+      "url": "https://job-boards.eu.greenhouse.io/feverup/jobs/4238197101",
+      "ats": "greenhouse",
+      "department": "",
+      "posted_at": "2026-01-08",
+      "category": "talent_acquisition",
+      "remote": true,
       "location_type": "spain_remote"
     },
     {
@@ -622,6 +607,36 @@
       "category": "other",
       "remote": true,
       "location_type": "barcelona"
+    },
+    {
+      "id": "1c575437-86b0-44ac-aca4-dede4b3412e8",
+      "title": "People data & systems specialist",
+      "company": "Alan",
+      "company_type": "scaleup",
+      "sector": "insurtech",
+      "location": "Anywhere in France, Belgium, Spain",
+      "url": "https://jobs.ashbyhq.com/alan/1c575437-86b0-44ac-aca4-dede4b3412e8",
+      "ats": "ashby",
+      "department": "Work Environment",
+      "posted_at": "2025-11-28",
+      "category": "people_analytics",
+      "remote": false,
+      "location_type": "spain_remote"
+    },
+    {
+      "id": "a86c8704-3ddb-43e5-861d-90f18808887f",
+      "title": "HR tech & automation",
+      "company": "Alan",
+      "company_type": "scaleup",
+      "sector": "insurtech",
+      "location": "Anywhere in France, Belgium, Spain",
+      "url": "https://jobs.ashbyhq.com/alan/a86c8704-3ddb-43e5-861d-90f18808887f",
+      "ats": "ashby",
+      "department": "Work Environment",
+      "posted_at": "2025-11-28",
+      "category": "other",
+      "remote": false,
+      "location_type": "spain_remote"
     },
     {
       "id": "5100204",
