@@ -1,15 +1,6 @@
 {
   "jobs": [
     {
-      "id": "ab_joko_e2129ca3-40d4-4533-b2e0-dee21061e4cb",
-      "title": "Talent Acquisition Manager - Spain Focus",
-      "company": "Joko",
-      "location": "Barcelona",
-      "url": "https://jobs.ashbyhq.com/joko/e2129ca3-40d4-4533-b2e0-dee21061e4cb",
-      "source": "ashby",
-      "category": "talent_acquisition"
-    },
-    {
       "id": "gh_scopely_4981004008",
       "title": "Compensation Analyst",
       "company": "Scopely",
@@ -43,6 +34,15 @@
       "location": "Barcelona",
       "url": "https://job-boards.greenhouse.io/tripadvisor/jobs/7440486",
       "source": "greenhouse",
+      "category": "talent_acquisition"
+    },
+    {
+      "id": "ab_joko_e2129ca3-40d4-4533-b2e0-dee21061e4cb",
+      "title": "Talent Acquisition Manager - Spain Focus",
+      "company": "Joko",
+      "location": "Barcelona",
+      "url": "https://jobs.ashbyhq.com/joko/e2129ca3-40d4-4533-b2e0-dee21061e4cb",
+      "source": "ashby",
       "category": "talent_acquisition"
     },
     {
@@ -154,6 +154,15 @@
       "category": "people_ops"
     },
     {
+      "id": "gh_feverup_4238197101",
+      "title": "Mid IT Talent Acquisition Specialist",
+      "company": "Fever",
+      "location": "Remote Spain",
+      "url": "https://job-boards.eu.greenhouse.io/feverup/jobs/4238197101",
+      "source": "greenhouse_eu",
+      "category": "talent_acquisition"
+    },
+    {
       "id": "gh_manychat_8359222002",
       "title": "People Analytics Specialist",
       "company": "Manychat",
@@ -262,6 +271,6 @@
       "category": "other"
     }
   ],
-  "last_updated": "2026-01-10T12:21:55.527451",
-  "total_jobs": 29
+  "last_updated": "2026-01-10T12:48:19.512557",
+  "total_jobs": 30
 }
