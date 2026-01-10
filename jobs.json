@@ -1,6 +1,15 @@
 {
   "jobs": [
     {
+      "id": "ab_joko_e2129ca3-40d4-4533-b2e0-dee21061e4cb",
+      "title": "Talent Acquisition Manager - Spain Focus",
+      "company": "Joko",
+      "location": "Barcelona",
+      "url": "https://jobs.ashbyhq.com/joko/e2129ca3-40d4-4533-b2e0-dee21061e4cb",
+      "source": "ashby",
+      "category": "talent_acquisition"
+    },
+    {
       "id": "gh_scopely_4981004008",
       "title": "Compensation Analyst",
       "company": "Scopely",
@@ -154,6 +163,24 @@
       "category": "people_analytics"
     },
     {
+      "id": "ab_alan_1c575437-86b0-44ac-aca4-dede4b3412e8",
+      "title": "People data & systems specialist",
+      "company": "Alan",
+      "location": "Anywhere in France, Belgium, Spain",
+      "url": "https://jobs.ashbyhq.com/alan/1c575437-86b0-44ac-aca4-dede4b3412e8",
+      "source": "ashby",
+      "category": "people_analytics"
+    },
+    {
+      "id": "ab_alan_a86c8704-3ddb-43e5-861d-90f18808887f",
+      "title": "HR tech & automation",
+      "company": "Alan",
+      "location": "Anywhere in France, Belgium, Spain",
+      "url": "https://jobs.ashbyhq.com/alan/a86c8704-3ddb-43e5-861d-90f18808887f",
+      "source": "ashby",
+      "category": "other"
+    },
+    {
       "id": "sr_Docplanner_744000102538395",
       "title": "HR Business Partner",
       "company": "Docplanner",
@@ -206,8 +233,35 @@
       "url": "https://api.smartrecruiters.com/v1/companies/Docplanner/postings/744000102538395",
       "source": "smartrecruiters",
       "category": "hrbp"
+    },
+    {
+      "id": "ab_deel_a7fb85da-970b-4628-83a2-c660acd598e3",
+      "title": "HR Experience Specialist | Spain",
+      "company": "Deel",
+      "location": "Spain",
+      "url": "https://jobs.ashbyhq.com/deel/a7fb85da-970b-4628-83a2-c660acd598e3",
+      "source": "ashby",
+      "category": "other"
+    },
+    {
+      "id": "ab_deel_fa0aadb4-fc99-4a4c-915e-81f5012141e0",
+      "title": "People Relations Partner (EMEA)",
+      "company": "Deel",
+      "location": "Spain",
+      "url": "https://jobs.ashbyhq.com/deel/fa0aadb4-fc99-4a4c-915e-81f5012141e0",
+      "source": "ashby",
+      "category": "other"
+    },
+    {
+      "id": "ab_deel_d83c7dad-27ed-4a6a-9882-8613be185d01",
+      "title": "People Relations Partner (EMEA)",
+      "company": "Deel",
+      "location": "Spain",
+      "url": "https://jobs.ashbyhq.com/deel/d83c7dad-27ed-4a6a-9882-8613be185d01",
+      "source": "ashby",
+      "category": "other"
     }
   ],
-  "last_updated": "2026-01-10T12:11:20.723196",
-  "total_jobs": 23
+  "last_updated": "2026-01-10T12:21:55.527451",
+  "total_jobs": 29
 }
