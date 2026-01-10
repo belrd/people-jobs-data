@@ -1,6 +1,18 @@
 {
   "jobs": [
     {
+      "id": "gh_scopely_5016025008",
+      "title": "Lead, People Business Partner - Monopoly GO!",
+      "company": "Scopely",
+      "location": "ES - Barcelona, Spain",
+      "url": "https://job-boards.greenhouse.io/scopely/jobs/5016025008",
+      "posted_date": "2026-01-10",
+      "source": "greenhouse",
+      "sector": "gaming",
+      "company_type": "",
+      "category": "other"
+    },
+    {
       "id": "gh_pleo_7517533003",
       "title": "Senior Global Payroll Specialist",
       "company": "Pleo",
@@ -217,18 +229,6 @@
       "category": "talent_acquisition"
     },
     {
-      "id": "gh_scopely_5016025008",
-      "title": "Lead, People Business Partner - Monopoly GO!",
-      "company": "Scopely",
-      "location": "ES - Barcelona, Spain",
-      "url": "https://job-boards.greenhouse.io/scopely/jobs/5016025008",
-      "posted_date": "2025-12-04",
-      "source": "greenhouse",
-      "sector": "gaming",
-      "company_type": "",
-      "category": "other"
-    },
-    {
       "id": "gh_canonical_5100204",
       "title": "Head of Talent Development",
       "company": "Canonical",
@@ -325,7 +325,7 @@
       "category": "other"
     },
     {
-      "id": "tt_sateliot_-5952803490152953464",
+      "id": "tt_sateliot_-8285014093154017820",
       "title": "Head of HR Operations & Administration.",
       "company": "Sateliot",
       "location": "Barcelona",
@@ -337,7 +337,7 @@
       "category": "people_ops"
     },
     {
-      "id": "tt_sateliot_-5031973945900926041",
+      "id": "tt_sateliot_-8036431825668172064",
       "title": "Junior Talent Acquisition Specialist",
       "company": "Sateliot",
       "location": "Barcelona",
@@ -396,15 +396,16 @@
       "teamtailor": 2
     },
     "by_category": {
+      "other": 6,
       "people_ops": 5,
       "hrbp": 11,
       "talent_acquisition": 6,
-      "other": 6,
       "people_analytics": 2,
       "leadership": 1,
       "compensation_benefits": 1
     },
     "by_sector": {
+      "gaming": 2,
       "fintech": 2,
       "healthtech": 2,
       "events": 1,
@@ -412,11 +413,10 @@
       "hr_tech": 10,
       "marketing": 1,
       "traveltech": 2,
-      "gaming": 2,
       "tech": 4,
       "insurtech": 2,
       "spacetech": 2
     }
   },
-  "last_updated": "2026-01-10T07:23:26.386213"
+  "last_updated": "2026-01-10T11:31:20.042721"
 }
